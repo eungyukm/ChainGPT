@@ -1,0 +1,27 @@
+[
+  {
+    "sender": "Alice",
+    "message": "Hey Bob, how's your day going?",
+    "timestamp": "2025-02-08T10:00:00"
+  },
+  {
+    "sender": "Bob",
+    "message": "Hey Alice! It's going great, just working on some projects.",
+    "timestamp": "2025-02-08T10:01:30"
+  },
+  {
+    "sender": "Alice",
+    "message": "Nice! What kind of projects are you working on?",
+    "timestamp": "2025-02-08T10:02:45"
+  },
+  {
+    "sender": "Bob",
+    "message": "I'm building an AI chatbot using LangChain. It's pretty cool!",
+    "timestamp": "2025-02-08T10:04:10"
+  },
+  {
+    "sender": "Alice",
+    "message": "That sounds awesome! I'd love to see it when it's ready.",
+    "timestamp": "2025-02-08T10:05:25"
+  }
+]

@@ -1,0 +1,1001 @@
+Product ID,Name,Category,Brand,Color,Material,Price,Rating,Reviews,Stock
+P0001,Books Product 1,Books,BrandD,Pink,Leather,233.95,4.6,2274,25
+P0002,Toys Product 2,Toys,BrandA,Black,Glass,110.43,4.1,982,51
+P0003,Electronics Product 3,Electronics,BrandB,White,Metal,316.3,3.2,1544,45
+P0004,Beauty Product 4,Beauty,BrandA,Blue,Glass,475.2,2.4,4660,73
+P0005,Home & Kitchen Product 5,Home & Kitchen,BrandC,Pink,Leather,38.5,1.5,3909,25
+P0006,Electronics Product 6,Electronics,BrandB,White,Plastic,310.87,4.8,4637,38
+P0007,Books Product 7,Books,BrandC,White,Glass,123.5,2.3,1017,46
+P0008,Beauty Product 8,Beauty,BrandB,Blue,Leather,391.52,2.8,116,25
+P0009,Electronics Product 9,Electronics,BrandE,White,Wood,399.37,2.7,1435,59
+P0010,Books Product 10,Books,BrandC,Green,Glass,486.76,2.2,4872,3
+P0011,Beauty Product 11,Beauty,BrandC,Blue,Metal,430.93,1.5,1959,23
+P0012,Electronics Product 12,Electronics,BrandA,Pink,Plastic,206.63,1.7,1799,49
+P0013,Electronics Product 13,Electronics,BrandB,Yellow,Plastic,385.92,2.1,1985,70
+P0014,Beauty Product 14,Beauty,BrandD,Black,Leather,30.56,1.8,3856,82
+P0015,Home & Kitchen Product 15,Home & Kitchen,BrandB,Yellow,Glass,243.28,4.3,1862,28
+P0016,Books Product 16,Books,BrandB,Pink,Glass,367.04,4.6,3868,55
+P0017,Books Product 17,Books,BrandA,Black,Wood,123.16,2.7,4883,35
+P0018,Electronics Product 18,Electronics,BrandA,Black,Plastic,207.5,3.0,711,43
+P0019,Home & Kitchen Product 19,Home & Kitchen,BrandA,Yellow,Metal,443.67,2.4,4590,76
+P0020,Electronics Product 20,Electronics,BrandD,Black,Plastic,59.82,4.9,534,78
+P0021,Sports Product 21,Sports,BrandA,Green,Metal,153.6,3.9,2577,76
+P0022,Clothing Product 22,Clothing,BrandA,Pink,Cotton,167.89,3.3,4959,13
+P0023,Electronics Product 23,Electronics,BrandA,Blue,Wood,197.48,1.8,52,98
+P0024,Home & Kitchen Product 24,Home & Kitchen,BrandC,White,Cotton,454.26,2.6,1065,47
+P0025,Clothing Product 25,Clothing,BrandC,Red,Leather,102.01,4.2,4215,46
+P0026,Sports Product 26,Sports,BrandC,Green,Glass,55.78,4.6,2989,21
+P0027,Clothing Product 27,Clothing,BrandB,Blue,Wood,328.86,2.3,2731,7
+P0028,Toys Product 28,Toys,BrandC,Blue,Cotton,178.23,2.7,1104,49
+P0029,Beauty Product 29,Beauty,BrandA,Blue,Cotton,258.05,4.2,2904,100
+P0030,Electronics Product 30,Electronics,BrandC,Black,Glass,447.28,1.9,4921,8
+P0031,Books Product 31,Books,BrandA,White,Metal,16.7,3.3,4907,87
+P0032,Clothing Product 32,Clothing,BrandB,Blue,Cotton,7.81,3.3,4526,81
+P0033,Sports Product 33,Sports,BrandC,Green,Metal,248.1,4.8,2499,78
+P0034,Toys Product 34,Toys,BrandE,Red,Metal,337.49,1.2,2899,41
+P0035,Home & Kitchen Product 35,Home & Kitchen,BrandB,Red,Metal,250.01,2.2,2149,80
+P0036,Sports Product 36,Sports,BrandE,Yellow,Metal,423.51,2.0,4326,27
+P0037,Sports Product 37,Sports,BrandC,White,Cotton,111.23,4.3,2103,82
+P0038,Clothing Product 38,Clothing,BrandB,Pink,Metal,339.77,2.5,1236,15
+P0039,Electronics Product 39,Electronics,BrandC,Red,Plastic,268.3,4.9,4751,67
+P0040,Toys Product 40,Toys,BrandC,Blue,Glass,413.7,4.4,2642,69
+P0041,Books Product 41,Books,BrandB,Red,Leather,132.99,1.4,908,42
+P0042,Toys Product 42,Toys,BrandD,White,Cotton,356.9,3.9,4887,82
+P0043,Clothing Product 43,Clothing,BrandD,Pink,Glass,78.82,2.8,4401,13
+P0044,Books Product 44,Books,BrandA,Pink,Metal,162.22,1.7,4070,98
+P0045,Books Product 45,Books,BrandD,White,Wood,94.04,3.6,307,57
+P0046,Home & Kitchen Product 46,Home & Kitchen,BrandC,Red,Glass,394.84,5.0,853,3
+P0047,Beauty Product 47,Beauty,BrandE,Pink,Glass,60.13,1.3,4707,15
+P0048,Sports Product 48,Sports,BrandE,Green,Plastic,227.23,1.7,803,6
+P0049,Home & Kitchen Product 49,Home & Kitchen,BrandD,Pink,Cotton,223.01,3.3,2772,74
+P0050,Home & Kitchen Product 50,Home & Kitchen,BrandD,Green,Cotton,418.64,3.9,2790,17
+P0051,Home & Kitchen Product 51,Home & Kitchen,BrandB,Yellow,Wood,158.1,1.2,4392,0
+P0052,Sports Product 52,Sports,BrandC,Blue,Plastic,287.59,2.9,3241,16
+P0053,Home & Kitchen Product 53,Home & Kitchen,BrandB,Black,Metal,136.93,2.3,554,58
+P0054,Home & Kitchen Product 54,Home & Kitchen,BrandD,White,Glass,40.09,1.6,4238,59
+P0055,Beauty Product 55,Beauty,BrandB,White,Metal,66.71,2.5,3372,6
+P0056,Beauty Product 56,Beauty,BrandE,Red,Wood,111.54,2.1,4345,84
+P0057,Toys Product 57,Toys,BrandA,Red,Wood,217.09,4.5,4264,17
+P0058,Toys Product 58,Toys,BrandC,Black,Glass,275.43,3.9,1405,67
+P0059,Books Product 59,Books,BrandD,Blue,Plastic,420.19,4.4,3724,67
+P0060,Clothing Product 60,Clothing,BrandD,Yellow,Leather,206.38,3.3,4562,8
+P0061,Toys Product 61,Toys,BrandC,Black,Wood,192.09,3.6,10,35
+P0062,Sports Product 62,Sports,BrandE,Yellow,Plastic,435.15,2.7,3563,61
+P0063,Beauty Product 63,Beauty,BrandD,Pink,Plastic,200.61,1.0,3539,17
+P0064,Home & Kitchen Product 64,Home & Kitchen,BrandB,White,Leather,267.03,3.6,3977,53
+P0065,Electronics Product 65,Electronics,BrandC,Pink,Metal,277.02,4.0,4211,62
+P0066,Clothing Product 66,Clothing,BrandB,Green,Glass,149.49,3.5,974,46
+P0067,Beauty Product 67,Beauty,BrandE,Red,Leather,272.63,1.3,406,2
+P0068,Toys Product 68,Toys,BrandB,Pink,Metal,171.76,1.3,1422,31
+P0069,Beauty Product 69,Beauty,BrandE,Red,Metal,432.53,4.2,1886,9
+P0070,Toys Product 70,Toys,BrandA,Blue,Metal,354.27,1.9,2627,27
+P0071,Toys Product 71,Toys,BrandC,Red,Leather,221.25,4.3,1318,47
+P0072,Home & Kitchen Product 72,Home & Kitchen,BrandA,Black,Glass,358.94,1.2,3734,65
+P0073,Electronics Product 73,Electronics,BrandE,Green,Leather,247.14,3.0,1752,51
+P0074,Beauty Product 74,Beauty,BrandA,White,Plastic,265.08,4.8,3235,92
+P0075,Books Product 75,Books,BrandB,Red,Plastic,455.26,4.6,4563,93
+P0076,Toys Product 76,Toys,BrandE,White,Glass,274.63,4.0,1307,73
+P0077,Beauty Product 77,Beauty,BrandE,Yellow,Metal,339.24,1.6,3647,25
+P0078,Home & Kitchen Product 78,Home & Kitchen,BrandD,Yellow,Plastic,304.98,3.3,2720,21
+P0079,Clothing Product 79,Clothing,BrandE,Yellow,Wood,390.71,3.6,2136,90
+P0080,Clothing Product 80,Clothing,BrandA,Green,Wood,62.72,3.3,4240,4
+P0081,Books Product 81,Books,BrandE,Green,Glass,284.62,1.4,2284,85
+P0082,Home & Kitchen Product 82,Home & Kitchen,BrandC,White,Plastic,319.9,4.3,2828,26
+P0083,Books Product 83,Books,BrandA,White,Wood,181.0,1.3,2957,95
+P0084,Sports Product 84,Sports,BrandD,White,Glass,17.39,4.4,1826,3
+P0085,Electronics Product 85,Electronics,BrandC,Green,Glass,179.86,2.2,31,38
+P0086,Home & Kitchen Product 86,Home & Kitchen,BrandD,Black,Wood,450.83,3.4,3591,76
+P0087,Electronics Product 87,Electronics,BrandB,Blue,Plastic,499.18,1.4,1008,6
+P0088,Toys Product 88,Toys,BrandD,Pink,Cotton,83.95,1.8,4881,92
+P0089,Clothing Product 89,Clothing,BrandD,White,Wood,352.27,4.7,4485,69
+P0090,Electronics Product 90,Electronics,BrandE,Green,Plastic,464.18,4.0,1505,3
+P0091,Toys Product 91,Toys,BrandA,Red,Plastic,168.07,1.6,4009,82
+P0092,Clothing Product 92,Clothing,BrandD,Pink,Plastic,365.27,1.9,1411,61
+P0093,Home & Kitchen Product 93,Home & Kitchen,BrandA,Blue,Wood,349.61,1.4,3043,72
+P0094,Clothing Product 94,Clothing,BrandA,Red,Wood,128.24,3.7,1100,71
+P0095,Toys Product 95,Toys,BrandC,White,Plastic,31.85,4.5,596,9
+P0096,Sports Product 96,Sports,BrandB,Green,Cotton,319.38,1.3,1710,58
+P0097,Sports Product 97,Sports,BrandD,Pink,Leather,263.64,2.7,2085,56
+P0098,Books Product 98,Books,BrandC,Green,Wood,116.93,1.6,2606,88
+P0099,Clothing Product 99,Clothing,BrandB,Blue,Metal,164.08,2.8,2414,97
+P0100,Electronics Product 100,Electronics,BrandB,Green,Cotton,280.12,1.2,2283,82
+P0101,Books Product 101,Books,BrandA,Blue,Wood,280.54,3.7,4329,7
+P0102,Home & Kitchen Product 102,Home & Kitchen,BrandC,Yellow,Plastic,201.96,2.5,1040,31
+P0103,Home & Kitchen Product 103,Home & Kitchen,BrandE,Blue,Cotton,79.76,3.3,4563,34
+P0104,Toys Product 104,Toys,BrandA,Green,Plastic,319.86,3.6,3419,40
+P0105,Clothing Product 105,Clothing,BrandE,Black,Wood,278.11,1.4,1195,98
+P0106,Home & Kitchen Product 106,Home & Kitchen,BrandD,Red,Metal,43.08,3.2,295,71
+P0107,Toys Product 107,Toys,BrandD,Black,Leather,298.12,3.3,2852,45
+P0108,Sports Product 108,Sports,BrandC,Red,Wood,30.21,2.3,3913,88
+P0109,Toys Product 109,Toys,BrandC,Pink,Cotton,264.18,4.0,2526,45
+P0110,Electronics Product 110,Electronics,BrandC,Green,Wood,431.65,2.4,4850,31
+P0111,Home & Kitchen Product 111,Home & Kitchen,BrandC,Black,Leather,145.22,3.3,1581,81
+P0112,Electronics Product 112,Electronics,BrandC,Green,Cotton,473.75,4.7,4254,6
+P0113,Home & Kitchen Product 113,Home & Kitchen,BrandE,Pink,Metal,472.33,3.6,2775,22
+P0114,Sports Product 114,Sports,BrandB,Pink,Cotton,128.19,2.3,3525,3
+P0115,Beauty Product 115,Beauty,BrandD,Blue,Metal,371.74,4.6,2978,10
+P0116,Books Product 116,Books,BrandA,White,Plastic,192.02,1.0,1729,32
+P0117,Sports Product 117,Sports,BrandA,Black,Wood,12.34,2.1,4615,62
+P0118,Beauty Product 118,Beauty,BrandD,Blue,Wood,391.72,1.2,1280,25
+P0119,Books Product 119,Books,BrandD,Blue,Leather,214.85,2.8,2323,5
+P0120,Books Product 120,Books,BrandE,Pink,Plastic,349.55,1.6,4370,73
+P0121,Toys Product 121,Toys,BrandD,Red,Leather,185.37,4.0,1895,13
+P0122,Beauty Product 122,Beauty,BrandD,Blue,Leather,158.89,4.0,3579,31
+P0123,Toys Product 123,Toys,BrandD,Black,Wood,413.39,2.3,3009,70
+P0124,Home & Kitchen Product 124,Home & Kitchen,BrandA,Pink,Leather,161.71,4.3,3524,73
+P0125,Books Product 125,Books,BrandC,White,Leather,361.34,3.6,2301,46
+P0126,Clothing Product 126,Clothing,BrandD,Yellow,Leather,440.88,3.0,553,27
+P0127,Electronics Product 127,Electronics,BrandB,Black,Plastic,203.93,5.0,2047,54
+P0128,Books Product 128,Books,BrandC,Blue,Cotton,99.25,2.0,1810,30
+P0129,Beauty Product 129,Beauty,BrandA,Pink,Metal,239.42,2.9,4980,92
+P0130,Beauty Product 130,Beauty,BrandD,Yellow,Plastic,78.44,4.2,685,36
+P0131,Electronics Product 131,Electronics,BrandA,Yellow,Glass,196.71,3.2,1780,83
+P0132,Clothing Product 132,Clothing,BrandA,Blue,Wood,38.49,4.2,1178,39
+P0133,Beauty Product 133,Beauty,BrandD,Blue,Wood,49.4,4.3,4562,61
+P0134,Beauty Product 134,Beauty,BrandD,Red,Glass,153.95,2.9,4789,0
+P0135,Books Product 135,Books,BrandC,Pink,Metal,310.72,4.8,4534,60
+P0136,Sports Product 136,Sports,BrandD,Pink,Cotton,269.17,1.0,2807,27
+P0137,Sports Product 137,Sports,BrandC,Blue,Metal,64.87,4.5,3724,94
+P0138,Sports Product 138,Sports,BrandE,Pink,Glass,478.75,3.3,2851,20
+P0139,Sports Product 139,Sports,BrandB,White,Leather,259.53,3.8,2863,95
+P0140,Home & Kitchen Product 140,Home & Kitchen,BrandC,Green,Metal,399.86,4.9,3244,8
+P0141,Books Product 141,Books,BrandE,Blue,Plastic,482.23,1.1,2425,43
+P0142,Beauty Product 142,Beauty,BrandC,Pink,Wood,247.05,3.1,1868,31
+P0143,Books Product 143,Books,BrandB,White,Glass,88.07,1.4,3196,70
+P0144,Beauty Product 144,Beauty,BrandE,Black,Plastic,97.79,3.2,2989,71
+P0145,Books Product 145,Books,BrandA,White,Glass,337.51,4.8,1700,3
+P0146,Books Product 146,Books,BrandD,Black,Wood,200.38,3.4,4613,0
+P0147,Beauty Product 147,Beauty,BrandE,Black,Metal,10.26,2.8,4662,7
+P0148,Toys Product 148,Toys,BrandE,Blue,Wood,137.12,2.7,3108,25
+P0149,Books Product 149,Books,BrandC,Red,Cotton,315.02,2.2,4424,46
+P0150,Electronics Product 150,Electronics,BrandE,Black,Leather,245.14,4.2,187,0
+P0151,Home & Kitchen Product 151,Home & Kitchen,BrandC,Red,Metal,159.39,2.3,1375,56
+P0152,Sports Product 152,Sports,BrandD,Green,Cotton,173.19,4.8,680,20
+P0153,Books Product 153,Books,BrandA,Pink,Leather,467.46,4.4,1458,30
+P0154,Beauty Product 154,Beauty,BrandD,White,Metal,155.09,1.4,3581,4
+P0155,Toys Product 155,Toys,BrandD,Yellow,Metal,476.61,3.5,2222,44
+P0156,Books Product 156,Books,BrandA,Pink,Leather,172.45,2.1,2682,88
+P0157,Toys Product 157,Toys,BrandD,Yellow,Metal,469.63,2.5,1542,8
+P0158,Books Product 158,Books,BrandB,Blue,Leather,278.12,3.8,2922,48
+P0159,Clothing Product 159,Clothing,BrandE,Pink,Wood,132.98,4.3,3476,2
+P0160,Beauty Product 160,Beauty,BrandE,Green,Leather,415.08,2.1,284,85
+P0161,Sports Product 161,Sports,BrandB,Yellow,Glass,357.01,1.3,2341,55
+P0162,Sports Product 162,Sports,BrandA,Black,Wood,208.73,3.4,3472,38
+P0163,Books Product 163,Books,BrandD,Red,Glass,107.84,2.9,959,52
+P0164,Clothing Product 164,Clothing,BrandD,Yellow,Plastic,269.57,3.2,3108,17
+P0165,Books Product 165,Books,BrandE,Green,Glass,307.52,2.2,562,85
+P0166,Electronics Product 166,Electronics,BrandC,Pink,Leather,394.05,1.1,4705,50
+P0167,Books Product 167,Books,BrandD,Red,Plastic,279.31,3.2,2647,33
+P0168,Books Product 168,Books,BrandE,Pink,Plastic,48.03,2.6,1947,33
+P0169,Electronics Product 169,Electronics,BrandE,Blue,Leather,273.67,4.9,2287,31
+P0170,Sports Product 170,Sports,BrandB,Green,Plastic,41.98,2.0,994,85
+P0171,Home & Kitchen Product 171,Home & Kitchen,BrandA,Green,Leather,211.01,4.2,1637,41
+P0172,Sports Product 172,Sports,BrandE,Black,Plastic,66.74,3.8,66,28
+P0173,Books Product 173,Books,BrandE,Pink,Cotton,277.59,4.0,652,16
+P0174,Sports Product 174,Sports,BrandA,Blue,Plastic,252.22,1.7,1259,78
+P0175,Home & Kitchen Product 175,Home & Kitchen,BrandE,Green,Glass,289.69,2.1,3493,38
+P0176,Beauty Product 176,Beauty,BrandD,Blue,Wood,417.28,1.7,540,63
+P0177,Home & Kitchen Product 177,Home & Kitchen,BrandB,Blue,Wood,80.89,1.9,1788,96
+P0178,Beauty Product 178,Beauty,BrandD,Green,Metal,224.94,2.3,4797,84
+P0179,Books Product 179,Books,BrandA,Red,Metal,49.09,4.9,4576,59
+P0180,Beauty Product 180,Beauty,BrandD,Green,Glass,52.96,3.7,78,22
+P0181,Beauty Product 181,Beauty,BrandD,White,Plastic,283.45,3.2,1268,74
+P0182,Toys Product 182,Toys,BrandA,Pink,Metal,227.8,4.8,4908,44
+P0183,Sports Product 183,Sports,BrandC,Red,Metal,460.4,2.2,2098,90
+P0184,Clothing Product 184,Clothing,BrandB,Black,Metal,393.42,2.9,3674,46
+P0185,Beauty Product 185,Beauty,BrandC,Blue,Cotton,427.39,3.1,3584,80
+P0186,Books Product 186,Books,BrandA,Red,Leather,388.75,4.9,4520,11
+P0187,Clothing Product 187,Clothing,BrandC,Black,Leather,266.9,1.0,277,34
+P0188,Beauty Product 188,Beauty,BrandC,White,Leather,265.35,4.9,3738,9
+P0189,Sports Product 189,Sports,BrandA,Green,Wood,20.08,2.4,123,19
+P0190,Sports Product 190,Sports,BrandC,Red,Glass,171.3,1.6,1293,37
+P0191,Toys Product 191,Toys,BrandA,Blue,Wood,334.86,2.6,654,49
+P0192,Clothing Product 192,Clothing,BrandC,Black,Plastic,408.86,3.0,3378,5
+P0193,Books Product 193,Books,BrandE,White,Cotton,203.51,2.4,1956,81
+P0194,Home & Kitchen Product 194,Home & Kitchen,BrandA,Red,Metal,108.05,1.2,4896,12
+P0195,Home & Kitchen Product 195,Home & Kitchen,BrandE,Green,Metal,181.74,4.9,1145,68
+P0196,Electronics Product 196,Electronics,BrandC,Pink,Glass,177.3,3.0,4811,51
+P0197,Electronics Product 197,Electronics,BrandA,Pink,Glass,282.37,1.0,4440,38
+P0198,Beauty Product 198,Beauty,BrandC,Green,Wood,188.68,4.5,3123,54
+P0199,Beauty Product 199,Beauty,BrandE,Yellow,Plastic,8.89,1.1,1792,11
+P0200,Electronics Product 200,Electronics,BrandD,Red,Wood,191.21,1.4,2084,60
+P0201,Home & Kitchen Product 201,Home & Kitchen,BrandC,White,Leather,151.82,2.0,3221,86
+P0202,Beauty Product 202,Beauty,BrandE,Black,Leather,319.24,4.0,3706,53
+P0203,Sports Product 203,Sports,BrandB,Blue,Metal,362.89,1.0,587,31
+P0204,Toys Product 204,Toys,BrandE,Red,Glass,433.0,5.0,4257,22
+P0205,Books Product 205,Books,BrandC,Blue,Plastic,491.99,2.4,4771,13
+P0206,Books Product 206,Books,BrandC,Yellow,Plastic,339.21,1.0,1424,9
+P0207,Toys Product 207,Toys,BrandE,Blue,Wood,156.21,1.5,3325,48
+P0208,Sports Product 208,Sports,BrandA,Pink,Plastic,111.14,4.7,2649,28
+P0209,Toys Product 209,Toys,BrandC,Pink,Leather,9.92,3.6,597,20
+P0210,Home & Kitchen Product 210,Home & Kitchen,BrandB,Black,Cotton,363.54,3.4,1178,33
+P0211,Books Product 211,Books,BrandD,Pink,Plastic,371.56,3.8,1323,18
+P0212,Electronics Product 212,Electronics,BrandC,White,Plastic,95.66,3.7,3812,38
+P0213,Toys Product 213,Toys,BrandE,Green,Cotton,323.06,3.1,819,45
+P0214,Electronics Product 214,Electronics,BrandD,Black,Plastic,211.52,1.6,475,75
+P0215,Home & Kitchen Product 215,Home & Kitchen,BrandC,Black,Metal,470.5,4.1,4154,60
+P0216,Sports Product 216,Sports,BrandD,White,Glass,454.65,4.1,2222,58
+P0217,Sports Product 217,Sports,BrandD,Green,Cotton,199.27,2.6,4242,49
+P0218,Home & Kitchen Product 218,Home & Kitchen,BrandB,Black,Glass,330.89,3.4,567,48
+P0219,Clothing Product 219,Clothing,BrandB,Red,Cotton,488.36,1.0,2452,74
+P0220,Electronics Product 220,Electronics,BrandE,Blue,Cotton,9.81,3.3,3036,22
+P0221,Clothing Product 221,Clothing,BrandD,Red,Glass,295.83,4.4,131,21
+P0222,Beauty Product 222,Beauty,BrandA,Blue,Plastic,129.26,2.5,2784,98
+P0223,Home & Kitchen Product 223,Home & Kitchen,BrandA,Blue,Cotton,297.28,1.2,751,11
+P0224,Home & Kitchen Product 224,Home & Kitchen,BrandE,Green,Cotton,392.7,1.2,3419,88
+P0225,Clothing Product 225,Clothing,BrandE,Blue,Plastic,469.21,2.0,3792,60
+P0226,Toys Product 226,Toys,BrandB,Red,Plastic,237.42,1.7,3761,88
+P0227,Clothing Product 227,Clothing,BrandD,Pink,Cotton,99.41,4.1,4323,75
+P0228,Clothing Product 228,Clothing,BrandC,Green,Metal,75.05,4.6,540,9
+P0229,Electronics Product 229,Electronics,BrandA,Green,Leather,278.18,3.3,1252,42
+P0230,Clothing Product 230,Clothing,BrandE,Pink,Plastic,61.79,1.9,4394,45
+P0231,Clothing Product 231,Clothing,BrandA,Blue,Cotton,77.05,1.7,2517,89
+P0232,Sports Product 232,Sports,BrandC,White,Wood,196.93,3.4,1263,60
+P0233,Toys Product 233,Toys,BrandB,Yellow,Glass,146.01,1.4,384,33
+P0234,Books Product 234,Books,BrandE,Pink,Wood,353.29,1.1,889,92
+P0235,Books Product 235,Books,BrandD,Black,Cotton,276.05,1.2,4286,66
+P0236,Toys Product 236,Toys,BrandD,White,Plastic,311.74,2.2,188,17
+P0237,Books Product 237,Books,BrandE,Green,Wood,445.17,2.9,2312,33
+P0238,Beauty Product 238,Beauty,BrandE,Red,Metal,143.36,1.5,1866,22
+P0239,Books Product 239,Books,BrandE,Black,Plastic,302.78,3.0,2837,2
+P0240,Toys Product 240,Toys,BrandC,Black,Plastic,446.56,4.0,3213,53
+P0241,Electronics Product 241,Electronics,BrandC,Green,Plastic,45.62,1.2,2953,3
+P0242,Toys Product 242,Toys,BrandE,Yellow,Leather,211.69,1.4,1560,82
+P0243,Electronics Product 243,Electronics,BrandD,Black,Metal,391.16,4.0,1457,97
+P0244,Books Product 244,Books,BrandA,Red,Wood,338.57,2.2,4477,12
+P0245,Electronics Product 245,Electronics,BrandA,Yellow,Metal,10.45,2.6,3711,100
+P0246,Sports Product 246,Sports,BrandC,Yellow,Glass,8.33,2.3,819,56
+P0247,Books Product 247,Books,BrandD,Yellow,Leather,285.96,2.2,2959,21
+P0248,Beauty Product 248,Beauty,BrandD,Red,Plastic,103.69,4.0,1088,18
+P0249,Sports Product 249,Sports,BrandB,White,Wood,32.24,3.5,4418,56
+P0250,Electronics Product 250,Electronics,BrandC,Yellow,Wood,469.93,2.8,1940,25
+P0251,Electronics Product 251,Electronics,BrandE,Yellow,Plastic,407.86,4.6,715,96
+P0252,Beauty Product 252,Beauty,BrandA,Green,Wood,289.37,4.8,4751,45
+P0253,Books Product 253,Books,BrandB,Green,Glass,282.49,4.1,4248,95
+P0254,Electronics Product 254,Electronics,BrandA,Blue,Wood,375.94,2.7,4568,65
+P0255,Books Product 255,Books,BrandE,White,Cotton,498.12,2.7,4467,83
+P0256,Toys Product 256,Toys,BrandA,Black,Wood,394.81,1.9,2862,15
+P0257,Clothing Product 257,Clothing,BrandA,Yellow,Cotton,92.46,1.3,95,13
+P0258,Clothing Product 258,Clothing,BrandE,Pink,Glass,85.34,3.1,1118,91
+P0259,Electronics Product 259,Electronics,BrandC,Black,Plastic,25.87,4.1,266,26
+P0260,Beauty Product 260,Beauty,BrandD,Blue,Cotton,20.99,3.2,4418,48
+P0261,Home & Kitchen Product 261,Home & Kitchen,BrandC,Black,Cotton,232.03,2.8,1700,13
+P0262,Home & Kitchen Product 262,Home & Kitchen,BrandB,Red,Plastic,374.41,3.3,1851,38
+P0263,Beauty Product 263,Beauty,BrandC,Blue,Wood,232.13,4.8,681,84
+P0264,Books Product 264,Books,BrandA,Black,Leather,7.77,4.4,139,61
+P0265,Home & Kitchen Product 265,Home & Kitchen,BrandA,Black,Wood,266.17,1.1,664,56
+P0266,Toys Product 266,Toys,BrandD,Blue,Glass,442.96,2.2,3564,94
+P0267,Sports Product 267,Sports,BrandB,White,Cotton,299.05,4.3,357,90
+P0268,Electronics Product 268,Electronics,BrandC,Yellow,Cotton,345.33,1.3,4893,1
+P0269,Sports Product 269,Sports,BrandB,Green,Metal,344.04,4.7,4268,83
+P0270,Toys Product 270,Toys,BrandD,Yellow,Cotton,498.31,1.7,2817,97
+P0271,Home & Kitchen Product 271,Home & Kitchen,BrandE,Black,Cotton,362.69,2.3,3615,33
+P0272,Electronics Product 272,Electronics,BrandA,Blue,Leather,499.16,3.8,1710,3
+P0273,Clothing Product 273,Clothing,BrandB,Red,Glass,478.68,4.6,3664,92
+P0274,Beauty Product 274,Beauty,BrandB,Pink,Plastic,356.95,3.2,156,78
+P0275,Clothing Product 275,Clothing,BrandE,Green,Wood,376.73,4.7,2400,17
+P0276,Electronics Product 276,Electronics,BrandC,Red,Leather,299.67,3.9,3099,61
+P0277,Toys Product 277,Toys,BrandE,Red,Plastic,17.79,3.3,1440,47
+P0278,Sports Product 278,Sports,BrandB,Yellow,Leather,55.37,4.6,2464,61
+P0279,Beauty Product 279,Beauty,BrandB,Black,Plastic,380.43,3.7,300,47
+P0280,Electronics Product 280,Electronics,BrandB,Black,Glass,304.72,3.6,4916,65
+P0281,Toys Product 281,Toys,BrandC,Pink,Metal,118.81,2.7,75,57
+P0282,Toys Product 282,Toys,BrandB,White,Wood,172.33,1.9,2467,15
+P0283,Electronics Product 283,Electronics,BrandC,Green,Wood,391.31,3.5,3493,69
+P0284,Books Product 284,Books,BrandC,Blue,Leather,194.48,2.1,3265,61
+P0285,Books Product 285,Books,BrandE,Red,Metal,338.71,2.1,920,65
+P0286,Electronics Product 286,Electronics,BrandD,Blue,Wood,289.75,1.7,2315,41
+P0287,Home & Kitchen Product 287,Home & Kitchen,BrandC,Yellow,Wood,54.05,1.0,1303,17
+P0288,Sports Product 288,Sports,BrandB,White,Plastic,359.63,2.5,2904,50
+P0289,Clothing Product 289,Clothing,BrandA,Blue,Wood,144.22,2.5,3666,10
+P0290,Toys Product 290,Toys,BrandB,Yellow,Plastic,305.84,2.2,4547,19
+P0291,Sports Product 291,Sports,BrandB,Red,Cotton,349.61,3.5,4319,76
+P0292,Clothing Product 292,Clothing,BrandD,Red,Plastic,455.31,2.2,3814,15
+P0293,Sports Product 293,Sports,BrandE,White,Plastic,218.87,2.3,2127,45
+P0294,Sports Product 294,Sports,BrandB,Red,Metal,381.25,3.7,394,18
+P0295,Home & Kitchen Product 295,Home & Kitchen,BrandD,Yellow,Metal,479.33,4.7,1367,59
+P0296,Clothing Product 296,Clothing,BrandD,White,Cotton,22.77,4.1,1538,95
+P0297,Toys Product 297,Toys,BrandB,Yellow,Metal,161.21,5.0,696,97
+P0298,Toys Product 298,Toys,BrandE,Blue,Leather,139.96,1.7,4433,32
+P0299,Clothing Product 299,Clothing,BrandE,Pink,Glass,421.6,2.8,4422,88
+P0300,Books Product 300,Books,BrandD,Blue,Leather,113.17,3.6,2956,24
+P0301,Home & Kitchen Product 301,Home & Kitchen,BrandB,Yellow,Plastic,396.02,4.1,4521,85
+P0302,Electronics Product 302,Electronics,BrandC,Pink,Wood,147.26,4.9,314,88
+P0303,Clothing Product 303,Clothing,BrandB,White,Metal,8.48,2.3,945,14
+P0304,Books Product 304,Books,BrandC,Red,Cotton,492.78,4.6,3885,43
+P0305,Sports Product 305,Sports,BrandE,Black,Plastic,302.59,2.4,1396,46
+P0306,Clothing Product 306,Clothing,BrandE,Black,Wood,478.78,2.6,999,82
+P0307,Sports Product 307,Sports,BrandE,Yellow,Plastic,376.64,2.2,3439,99
+P0308,Books Product 308,Books,BrandD,Black,Leather,490.42,4.8,4174,66
+P0309,Clothing Product 309,Clothing,BrandD,Pink,Plastic,261.43,3.6,4211,1
+P0310,Sports Product 310,Sports,BrandD,White,Leather,7.99,4.0,3599,21
+P0311,Toys Product 311,Toys,BrandC,Red,Cotton,327.8,4.9,2581,60
+P0312,Toys Product 312,Toys,BrandA,Blue,Glass,104.37,5.0,4781,75
+P0313,Clothing Product 313,Clothing,BrandE,Yellow,Wood,239.26,3.4,360,21
+P0314,Electronics Product 314,Electronics,BrandD,Yellow,Glass,424.77,3.6,3460,21
+P0315,Electronics Product 315,Electronics,BrandC,Green,Leather,307.08,2.4,1872,38
+P0316,Beauty Product 316,Beauty,BrandD,Green,Leather,333.15,4.0,2853,94
+P0317,Sports Product 317,Sports,BrandC,Green,Leather,420.94,4.6,4562,16
+P0318,Toys Product 318,Toys,BrandB,Red,Cotton,19.34,4.8,637,35
+P0319,Toys Product 319,Toys,BrandE,Blue,Wood,243.25,3.4,2867,34
+P0320,Toys Product 320,Toys,BrandB,Yellow,Cotton,499.37,1.8,3901,64
+P0321,Beauty Product 321,Beauty,BrandE,Yellow,Glass,471.81,3.1,3374,39
+P0322,Beauty Product 322,Beauty,BrandD,Pink,Glass,88.58,4.4,2134,77
+P0323,Books Product 323,Books,BrandE,Blue,Metal,226.57,1.1,4846,26
+P0324,Sports Product 324,Sports,BrandE,Yellow,Glass,47.84,1.2,3906,91
+P0325,Clothing Product 325,Clothing,BrandA,Red,Leather,236.87,3.2,3812,36
+P0326,Clothing Product 326,Clothing,BrandE,Yellow,Wood,349.22,3.5,501,65
+P0327,Beauty Product 327,Beauty,BrandD,Pink,Wood,18.2,1.6,4716,51
+P0328,Clothing Product 328,Clothing,BrandC,Blue,Leather,418.88,1.3,3592,95
+P0329,Clothing Product 329,Clothing,BrandE,Pink,Cotton,23.35,4.8,66,37
+P0330,Sports Product 330,Sports,BrandD,Yellow,Leather,199.87,1.2,4045,82
+P0331,Toys Product 331,Toys,BrandB,Red,Glass,253.55,2.2,3160,84
+P0332,Sports Product 332,Sports,BrandA,White,Metal,486.8,3.7,55,70
+P0333,Beauty Product 333,Beauty,BrandE,Black,Wood,77.11,3.6,3539,82
+P0334,Beauty Product 334,Beauty,BrandC,Blue,Cotton,139.26,3.6,2858,97
+P0335,Clothing Product 335,Clothing,BrandE,Black,Plastic,121.35,3.2,3347,91
+P0336,Sports Product 336,Sports,BrandD,Red,Wood,180.54,4.6,3693,43
+P0337,Home & Kitchen Product 337,Home & Kitchen,BrandE,Pink,Leather,152.3,4.8,551,40
+P0338,Beauty Product 338,Beauty,BrandA,Blue,Wood,337.71,4.6,4138,34
+P0339,Beauty Product 339,Beauty,BrandB,Black,Metal,252.0,3.3,1347,24
+P0340,Books Product 340,Books,BrandE,White,Metal,478.22,4.2,2506,48
+P0341,Sports Product 341,Sports,BrandB,Red,Leather,312.02,3.6,4855,29
+P0342,Sports Product 342,Sports,BrandA,Red,Glass,81.42,1.7,1228,4
+P0343,Beauty Product 343,Beauty,BrandB,Pink,Plastic,453.72,1.1,2001,79
+P0344,Toys Product 344,Toys,BrandD,Blue,Leather,432.98,4.7,3788,75
+P0345,Books Product 345,Books,BrandE,Green,Cotton,110.79,4.0,4331,80
+P0346,Clothing Product 346,Clothing,BrandD,Black,Glass,51.29,4.1,163,99
+P0347,Sports Product 347,Sports,BrandD,Black,Metal,199.1,3.3,3605,1
+P0348,Beauty Product 348,Beauty,BrandA,Black,Metal,372.76,4.8,4085,50
+P0349,Clothing Product 349,Clothing,BrandA,Green,Wood,55.55,1.3,1293,60
+P0350,Beauty Product 350,Beauty,BrandD,White,Wood,261.08,2.3,4641,12
+P0351,Books Product 351,Books,BrandC,White,Plastic,332.85,4.3,2223,49
+P0352,Beauty Product 352,Beauty,BrandE,Blue,Metal,344.34,1.2,1515,70
+P0353,Toys Product 353,Toys,BrandC,Black,Wood,11.51,4.3,2557,17
+P0354,Beauty Product 354,Beauty,BrandB,Green,Glass,156.96,4.4,159,1
+P0355,Electronics Product 355,Electronics,BrandA,White,Plastic,129.2,4.4,3386,77
+P0356,Clothing Product 356,Clothing,BrandB,Yellow,Cotton,419.33,4.4,4208,87
+P0357,Toys Product 357,Toys,BrandA,Black,Metal,364.06,4.4,3695,27
+P0358,Toys Product 358,Toys,BrandC,Green,Metal,201.05,2.1,4102,36
+P0359,Home & Kitchen Product 359,Home & Kitchen,BrandD,Green,Metal,316.47,1.5,168,61
+P0360,Sports Product 360,Sports,BrandE,Pink,Cotton,418.46,4.5,4371,67
+P0361,Toys Product 361,Toys,BrandB,Green,Leather,78.88,2.4,2132,47
+P0362,Sports Product 362,Sports,BrandE,Pink,Glass,94.9,1.5,4095,63
+P0363,Toys Product 363,Toys,BrandD,White,Plastic,297.01,2.5,813,49
+P0364,Beauty Product 364,Beauty,BrandD,Black,Metal,237.36,2.6,4321,23
+P0365,Home & Kitchen Product 365,Home & Kitchen,BrandC,Black,Metal,237.67,3.3,81,45
+P0366,Toys Product 366,Toys,BrandB,Pink,Plastic,441.82,4.3,763,79
+P0367,Home & Kitchen Product 367,Home & Kitchen,BrandE,White,Cotton,359.33,3.6,630,0
+P0368,Books Product 368,Books,BrandD,Pink,Leather,467.77,4.2,3162,54
+P0369,Sports Product 369,Sports,BrandA,Pink,Glass,6.63,4.7,3827,31
+P0370,Clothing Product 370,Clothing,BrandE,Pink,Leather,233.45,4.2,4655,77
+P0371,Sports Product 371,Sports,BrandA,Black,Cotton,178.21,3.5,1584,45
+P0372,Books Product 372,Books,BrandC,Yellow,Plastic,187.19,1.7,1461,24
+P0373,Beauty Product 373,Beauty,BrandB,Green,Cotton,326.48,1.2,3368,79
+P0374,Clothing Product 374,Clothing,BrandB,Yellow,Metal,499.55,2.8,2681,61
+P0375,Sports Product 375,Sports,BrandB,Blue,Metal,428.47,3.7,381,71
+P0376,Toys Product 376,Toys,BrandB,Red,Leather,445.83,3.9,3207,96
+P0377,Books Product 377,Books,BrandD,Green,Cotton,489.64,4.7,159,41
+P0378,Toys Product 378,Toys,BrandC,White,Cotton,280.36,4.9,3378,71
+P0379,Books Product 379,Books,BrandA,Red,Plastic,494.67,2.9,3820,68
+P0380,Toys Product 380,Toys,BrandC,Pink,Metal,307.38,4.1,4553,5
+P0381,Clothing Product 381,Clothing,BrandB,Blue,Wood,347.46,1.1,162,31
+P0382,Books Product 382,Books,BrandA,Blue,Cotton,140.42,1.6,4470,42
+P0383,Clothing Product 383,Clothing,BrandD,White,Metal,181.99,1.4,4724,37
+P0384,Toys Product 384,Toys,BrandA,Red,Leather,130.67,4.3,318,21
+P0385,Beauty Product 385,Beauty,BrandE,Red,Cotton,107.24,3.2,1586,42
+P0386,Electronics Product 386,Electronics,BrandE,Pink,Metal,459.69,2.1,4337,60
+P0387,Toys Product 387,Toys,BrandC,Pink,Leather,42.8,4.4,1445,32
+P0388,Books Product 388,Books,BrandD,Yellow,Wood,445.25,2.0,2882,67
+P0389,Beauty Product 389,Beauty,BrandC,Yellow,Leather,297.81,2.9,3817,40
+P0390,Sports Product 390,Sports,BrandC,Blue,Wood,441.97,1.8,4557,17
+P0391,Electronics Product 391,Electronics,BrandC,Black,Leather,209.86,1.6,1898,35
+P0392,Beauty Product 392,Beauty,BrandA,Pink,Leather,392.32,3.2,2237,30
+P0393,Toys Product 393,Toys,BrandE,Blue,Leather,479.56,1.7,3370,38
+P0394,Home & Kitchen Product 394,Home & Kitchen,BrandE,Blue,Wood,441.61,3.2,1696,82
+P0395,Beauty Product 395,Beauty,BrandE,Black,Cotton,257.11,1.4,2469,26
+P0396,Clothing Product 396,Clothing,BrandA,Yellow,Cotton,425.53,5.0,2956,3
+P0397,Clothing Product 397,Clothing,BrandC,Black,Metal,144.37,4.0,194,13
+P0398,Books Product 398,Books,BrandE,Green,Metal,404.63,1.0,338,72
+P0399,Toys Product 399,Toys,BrandB,Blue,Plastic,32.28,4.8,3684,24
+P0400,Toys Product 400,Toys,BrandE,White,Leather,375.64,3.8,1947,28
+P0401,Electronics Product 401,Electronics,BrandE,Yellow,Glass,99.72,2.4,3266,40
+P0402,Toys Product 402,Toys,BrandA,Green,Plastic,440.96,4.0,3717,25
+P0403,Books Product 403,Books,BrandC,Red,Glass,93.47,3.0,4247,17
+P0404,Electronics Product 404,Electronics,BrandA,Pink,Glass,84.32,4.7,383,64
+P0405,Sports Product 405,Sports,BrandB,Green,Plastic,296.51,4.5,704,37
+P0406,Beauty Product 406,Beauty,BrandA,Pink,Metal,467.57,3.4,4290,66
+P0407,Books Product 407,Books,BrandC,Pink,Plastic,220.24,2.4,4879,12
+P0408,Sports Product 408,Sports,BrandE,Blue,Leather,16.41,1.2,2139,23
+P0409,Beauty Product 409,Beauty,BrandA,Pink,Leather,322.64,2.2,4881,52
+P0410,Toys Product 410,Toys,BrandA,Red,Plastic,440.17,2.6,2452,39
+P0411,Home & Kitchen Product 411,Home & Kitchen,BrandD,Black,Glass,418.14,2.0,1572,3
+P0412,Sports Product 412,Sports,BrandE,Blue,Cotton,236.31,2.4,4613,80
+P0413,Sports Product 413,Sports,BrandE,Pink,Metal,309.25,2.2,881,94
+P0414,Clothing Product 414,Clothing,BrandD,Yellow,Cotton,397.16,4.9,1826,33
+P0415,Home & Kitchen Product 415,Home & Kitchen,BrandA,Green,Leather,110.39,1.6,3712,51
+P0416,Beauty Product 416,Beauty,BrandC,Black,Cotton,45.45,3.9,1350,53
+P0417,Toys Product 417,Toys,BrandD,Black,Cotton,236.56,1.1,1780,64
+P0418,Books Product 418,Books,BrandC,Green,Metal,271.61,4.2,3672,10
+P0419,Clothing Product 419,Clothing,BrandD,Blue,Cotton,86.16,4.7,726,8
+P0420,Books Product 420,Books,BrandC,White,Leather,444.64,4.0,1789,10
+P0421,Beauty Product 421,Beauty,BrandC,Yellow,Glass,327.79,1.2,3170,42
+P0422,Sports Product 422,Sports,BrandA,Blue,Plastic,467.01,2.5,2473,45
+P0423,Home & Kitchen Product 423,Home & Kitchen,BrandB,Yellow,Wood,207.14,4.2,242,25
+P0424,Toys Product 424,Toys,BrandD,Pink,Wood,277.7,1.9,4874,36
+P0425,Beauty Product 425,Beauty,BrandB,Green,Metal,74.5,1.5,2915,75
+P0426,Beauty Product 426,Beauty,BrandA,Pink,Metal,159.89,2.6,3975,44
+P0427,Beauty Product 427,Beauty,BrandD,Black,Plastic,86.81,1.1,882,44
+P0428,Home & Kitchen Product 428,Home & Kitchen,BrandD,Red,Glass,243.01,4.9,1648,72
+P0429,Books Product 429,Books,BrandC,Pink,Wood,111.86,4.8,4369,42
+P0430,Electronics Product 430,Electronics,BrandB,Blue,Plastic,216.67,1.0,2692,1
+P0431,Clothing Product 431,Clothing,BrandC,Yellow,Cotton,463.06,2.2,3243,61
+P0432,Toys Product 432,Toys,BrandC,Red,Glass,126.03,3.9,2830,31
+P0433,Clothing Product 433,Clothing,BrandD,Blue,Plastic,131.53,4.8,1735,51
+P0434,Sports Product 434,Sports,BrandA,Black,Wood,73.55,3.5,4575,23
+P0435,Home & Kitchen Product 435,Home & Kitchen,BrandD,Black,Wood,477.29,3.1,4370,63
+P0436,Sports Product 436,Sports,BrandD,Black,Wood,153.33,1.1,1489,93
+P0437,Home & Kitchen Product 437,Home & Kitchen,BrandB,Green,Glass,238.84,1.4,3934,20
+P0438,Home & Kitchen Product 438,Home & Kitchen,BrandD,Green,Metal,346.21,1.2,3111,67
+P0439,Beauty Product 439,Beauty,BrandE,Pink,Wood,253.97,1.2,376,23
+P0440,Sports Product 440,Sports,BrandB,White,Metal,414.71,2.3,3121,41
+P0441,Books Product 441,Books,BrandD,Pink,Glass,85.56,1.1,469,12
+P0442,Clothing Product 442,Clothing,BrandA,Red,Wood,75.39,2.7,3350,62
+P0443,Clothing Product 443,Clothing,BrandB,Green,Metal,61.58,3.5,63,32
+P0444,Clothing Product 444,Clothing,BrandC,Red,Glass,336.49,2.5,2348,51
+P0445,Clothing Product 445,Clothing,BrandE,White,Glass,204.78,3.5,1259,21
+P0446,Clothing Product 446,Clothing,BrandD,Black,Glass,278.03,4.1,1394,86
+P0447,Sports Product 447,Sports,BrandB,Green,Plastic,94.68,1.8,922,96
+P0448,Clothing Product 448,Clothing,BrandC,Blue,Plastic,334.53,4.7,3719,27
+P0449,Clothing Product 449,Clothing,BrandA,Red,Cotton,434.7,1.3,4742,17
+P0450,Sports Product 450,Sports,BrandB,Red,Leather,398.11,4.5,108,93
+P0451,Books Product 451,Books,BrandD,Black,Glass,325.43,2.1,4720,96
+P0452,Clothing Product 452,Clothing,BrandC,Blue,Metal,76.29,2.2,1121,82
+P0453,Toys Product 453,Toys,BrandB,White,Wood,449.95,3.4,2495,12
+P0454,Electronics Product 454,Electronics,BrandD,Black,Glass,426.2,1.1,310,38
+P0455,Beauty Product 455,Beauty,BrandB,Red,Glass,393.29,2.7,4509,78
+P0456,Books Product 456,Books,BrandD,Pink,Plastic,481.97,1.8,4590,76
+P0457,Books Product 457,Books,BrandC,Yellow,Leather,407.86,4.1,4729,6
+P0458,Clothing Product 458,Clothing,BrandE,White,Leather,397.43,3.5,2243,64
+P0459,Toys Product 459,Toys,BrandC,White,Cotton,353.14,3.0,4557,27
+P0460,Sports Product 460,Sports,BrandD,Pink,Wood,269.08,4.7,275,34
+P0461,Books Product 461,Books,BrandD,Green,Plastic,423.94,2.7,2569,45
+P0462,Clothing Product 462,Clothing,BrandD,White,Leather,329.39,4.0,1373,42
+P0463,Sports Product 463,Sports,BrandB,White,Wood,481.09,4.7,1543,19
+P0464,Books Product 464,Books,BrandE,Yellow,Plastic,188.15,2.2,1523,13
+P0465,Clothing Product 465,Clothing,BrandB,White,Wood,423.02,3.8,1964,45
+P0466,Beauty Product 466,Beauty,BrandC,Yellow,Glass,302.79,4.7,170,9
+P0467,Sports Product 467,Sports,BrandE,White,Wood,454.87,2.2,1013,50
+P0468,Books Product 468,Books,BrandD,White,Plastic,387.35,1.0,1872,88
+P0469,Electronics Product 469,Electronics,BrandA,Yellow,Glass,335.22,5.0,4278,14
+P0470,Home & Kitchen Product 470,Home & Kitchen,BrandB,Red,Leather,122.57,2.7,2749,0
+P0471,Books Product 471,Books,BrandB,Pink,Leather,254.71,2.5,1964,69
+P0472,Toys Product 472,Toys,BrandD,Black,Cotton,493.67,4.3,17,31
+P0473,Clothing Product 473,Clothing,BrandE,Blue,Glass,430.13,2.3,4392,86
+P0474,Clothing Product 474,Clothing,BrandB,White,Leather,224.34,1.5,2169,50
+P0475,Sports Product 475,Sports,BrandD,Black,Cotton,92.24,3.6,2605,60
+P0476,Home & Kitchen Product 476,Home & Kitchen,BrandE,Red,Metal,304.49,2.4,1802,49
+P0477,Books Product 477,Books,BrandC,Black,Metal,224.02,4.4,3132,31
+P0478,Sports Product 478,Sports,BrandD,Black,Cotton,266.53,4.3,2983,54
+P0479,Toys Product 479,Toys,BrandB,Black,Wood,195.16,4.5,930,90
+P0480,Clothing Product 480,Clothing,BrandD,Pink,Wood,386.2,1.0,2435,63
+P0481,Books Product 481,Books,BrandD,Pink,Leather,46.28,4.1,3819,84
+P0482,Electronics Product 482,Electronics,BrandE,Green,Plastic,479.58,1.6,3545,68
+P0483,Home & Kitchen Product 483,Home & Kitchen,BrandA,Pink,Leather,159.64,3.3,3262,44
+P0484,Home & Kitchen Product 484,Home & Kitchen,BrandB,Black,Leather,94.12,2.7,4964,8
+P0485,Toys Product 485,Toys,BrandB,White,Cotton,127.98,3.6,3505,92
+P0486,Toys Product 486,Toys,BrandA,Green,Cotton,91.62,2.4,1738,99
+P0487,Beauty Product 487,Beauty,BrandD,Red,Glass,469.89,3.5,2525,90
+P0488,Clothing Product 488,Clothing,BrandC,Black,Glass,481.98,3.3,3994,13
+P0489,Sports Product 489,Sports,BrandE,Black,Plastic,20.06,4.0,2866,23
+P0490,Electronics Product 490,Electronics,BrandE,Red,Cotton,264.83,4.4,3063,0
+P0491,Home & Kitchen Product 491,Home & Kitchen,BrandC,Pink,Metal,57.1,3.7,4215,54
+P0492,Toys Product 492,Toys,BrandE,Pink,Plastic,311.77,3.8,1278,86
+P0493,Home & Kitchen Product 493,Home & Kitchen,BrandB,Yellow,Glass,292.25,4.6,674,58
+P0494,Home & Kitchen Product 494,Home & Kitchen,BrandB,Green,Cotton,459.87,4.3,2640,66
+P0495,Home & Kitchen Product 495,Home & Kitchen,BrandD,Yellow,Metal,499.46,1.9,2108,98
+P0496,Clothing Product 496,Clothing,BrandC,Green,Plastic,8.21,2.4,4207,0
+P0497,Clothing Product 497,Clothing,BrandE,White,Leather,472.26,4.7,2632,62
+P0498,Sports Product 498,Sports,BrandC,Black,Metal,411.52,4.8,1950,26
+P0499,Beauty Product 499,Beauty,BrandC,Blue,Glass,210.69,1.5,1789,16
+P0500,Electronics Product 500,Electronics,BrandA,Red,Plastic,142.4,3.1,3166,92
+P0501,Electronics Product 501,Electronics,BrandB,Yellow,Leather,115.25,2.6,596,59
+P0502,Home & Kitchen Product 502,Home & Kitchen,BrandC,Black,Wood,467.05,3.8,3531,90
+P0503,Home & Kitchen Product 503,Home & Kitchen,BrandB,Red,Cotton,201.6,3.8,3417,36
+P0504,Beauty Product 504,Beauty,BrandD,Pink,Wood,277.28,2.7,235,3
+P0505,Clothing Product 505,Clothing,BrandC,Pink,Wood,185.18,5.0,4842,76
+P0506,Books Product 506,Books,BrandE,Black,Glass,250.79,2.4,241,88
+P0507,Sports Product 507,Sports,BrandB,Yellow,Leather,321.28,2.5,4502,53
+P0508,Sports Product 508,Sports,BrandD,Yellow,Metal,163.72,3.3,4731,48
+P0509,Books Product 509,Books,BrandB,Black,Cotton,13.92,4.3,2279,26
+P0510,Books Product 510,Books,BrandA,White,Metal,55.84,2.0,1930,71
+P0511,Clothing Product 511,Clothing,BrandB,Red,Wood,469.35,3.5,3384,74
+P0512,Beauty Product 512,Beauty,BrandD,Blue,Metal,414.1,1.9,126,51
+P0513,Beauty Product 513,Beauty,BrandE,Pink,Plastic,35.24,4.2,3058,5
+P0514,Beauty Product 514,Beauty,BrandE,Red,Wood,100.26,2.5,4077,3
+P0515,Electronics Product 515,Electronics,BrandC,Yellow,Wood,271.62,2.2,4927,0
+P0516,Home & Kitchen Product 516,Home & Kitchen,BrandD,Black,Plastic,404.4,4.9,610,59
+P0517,Electronics Product 517,Electronics,BrandC,Green,Leather,328.25,4.9,3570,87
+P0518,Clothing Product 518,Clothing,BrandC,Pink,Wood,55.15,4.9,703,44
+P0519,Toys Product 519,Toys,BrandE,Red,Glass,460.14,3.4,1309,6
+P0520,Sports Product 520,Sports,BrandC,Red,Leather,438.55,1.6,4561,92
+P0521,Sports Product 521,Sports,BrandB,Green,Glass,83.37,1.9,4093,82
+P0522,Home & Kitchen Product 522,Home & Kitchen,BrandE,Pink,Leather,416.34,1.5,1883,98
+P0523,Toys Product 523,Toys,BrandB,Yellow,Wood,288.4,4.5,4491,33
+P0524,Home & Kitchen Product 524,Home & Kitchen,BrandC,Yellow,Plastic,337.77,3.0,2118,97
+P0525,Toys Product 525,Toys,BrandD,White,Cotton,335.67,2.3,3002,19
+P0526,Books Product 526,Books,BrandE,Black,Leather,367.96,4.0,1885,27
+P0527,Electronics Product 527,Electronics,BrandA,Red,Plastic,237.67,2.8,4367,53
+P0528,Toys Product 528,Toys,BrandC,Yellow,Leather,438.48,3.1,4962,23
+P0529,Electronics Product 529,Electronics,BrandA,Red,Cotton,415.57,2.2,2796,54
+P0530,Books Product 530,Books,BrandA,White,Glass,83.94,2.0,4573,0
+P0531,Books Product 531,Books,BrandD,Red,Plastic,458.45,2.3,4248,74
+P0532,Clothing Product 532,Clothing,BrandE,Pink,Plastic,482.86,2.0,3647,88
+P0533,Toys Product 533,Toys,BrandD,Yellow,Glass,113.15,3.3,4653,70
+P0534,Clothing Product 534,Clothing,BrandB,Yellow,Leather,416.06,3.5,1241,28
+P0535,Toys Product 535,Toys,BrandA,Green,Leather,289.09,2.7,3825,95
+P0536,Toys Product 536,Toys,BrandB,Black,Wood,72.44,1.6,1062,23
+P0537,Clothing Product 537,Clothing,BrandB,Red,Glass,181.83,4.4,4694,69
+P0538,Clothing Product 538,Clothing,BrandD,Black,Glass,313.03,3.8,2429,33
+P0539,Toys Product 539,Toys,BrandE,White,Plastic,114.57,1.2,3221,13
+P0540,Sports Product 540,Sports,BrandD,Red,Leather,91.56,2.2,1515,17
+P0541,Books Product 541,Books,BrandB,Green,Plastic,90.45,4.6,1847,12
+P0542,Sports Product 542,Sports,BrandD,Green,Plastic,316.83,2.6,1055,70
+P0543,Electronics Product 543,Electronics,BrandC,Green,Wood,472.24,3.4,3127,71
+P0544,Books Product 544,Books,BrandA,Blue,Metal,375.21,1.7,1323,2
+P0545,Home & Kitchen Product 545,Home & Kitchen,BrandA,Blue,Leather,79.76,1.3,3975,34
+P0546,Home & Kitchen Product 546,Home & Kitchen,BrandB,Green,Plastic,96.77,1.3,4302,58
+P0547,Home & Kitchen Product 547,Home & Kitchen,BrandE,Yellow,Cotton,467.79,3.6,4604,50
+P0548,Books Product 548,Books,BrandC,Black,Glass,397.18,1.7,3697,99
+P0549,Clothing Product 549,Clothing,BrandE,Red,Wood,299.97,1.3,3631,34
+P0550,Toys Product 550,Toys,BrandB,Blue,Glass,236.47,3.1,4576,35
+P0551,Electronics Product 551,Electronics,BrandB,Red,Plastic,47.78,4.0,4337,43
+P0552,Toys Product 552,Toys,BrandA,Blue,Wood,322.86,2.7,2679,22
+P0553,Books Product 553,Books,BrandC,Blue,Glass,230.82,2.9,2713,59
+P0554,Books Product 554,Books,BrandB,Pink,Metal,138.06,2.3,1982,25
+P0555,Home & Kitchen Product 555,Home & Kitchen,BrandC,Green,Wood,456.09,1.6,373,27
+P0556,Books Product 556,Books,BrandC,Green,Cotton,160.84,3.4,4074,7
+P0557,Clothing Product 557,Clothing,BrandA,Pink,Cotton,425.5,4.0,2426,92
+P0558,Sports Product 558,Sports,BrandC,Blue,Plastic,95.19,4.8,1384,39
+P0559,Electronics Product 559,Electronics,BrandB,Pink,Plastic,40.79,1.5,1727,90
+P0560,Electronics Product 560,Electronics,BrandB,Black,Leather,192.46,4.9,4160,88
+P0561,Toys Product 561,Toys,BrandD,Pink,Leather,188.19,1.1,4724,93
+P0562,Beauty Product 562,Beauty,BrandD,Red,Wood,94.16,1.5,3460,39
+P0563,Electronics Product 563,Electronics,BrandA,Blue,Glass,469.11,2.8,2360,44
+P0564,Books Product 564,Books,BrandB,Red,Glass,380.28,2.0,3616,70
+P0565,Books Product 565,Books,BrandA,White,Wood,481.25,4.2,3174,73
+P0566,Electronics Product 566,Electronics,BrandB,Red,Cotton,453.94,4.8,1365,81
+P0567,Books Product 567,Books,BrandA,Yellow,Plastic,444.92,1.7,1158,48
+P0568,Toys Product 568,Toys,BrandA,Blue,Leather,360.43,4.8,2761,57
+P0569,Electronics Product 569,Electronics,BrandA,Red,Glass,131.09,1.0,3885,91
+P0570,Sports Product 570,Sports,BrandE,Green,Cotton,15.32,3.4,3406,51
+P0571,Books Product 571,Books,BrandE,Black,Leather,424.89,4.4,411,13
+P0572,Books Product 572,Books,BrandB,Red,Leather,358.68,3.7,4828,13
+P0573,Clothing Product 573,Clothing,BrandE,Black,Leather,389.46,2.4,2870,35
+P0574,Sports Product 574,Sports,BrandC,Blue,Plastic,391.21,3.8,2383,2
+P0575,Home & Kitchen Product 575,Home & Kitchen,BrandE,Green,Leather,425.09,1.7,3019,16
+P0576,Beauty Product 576,Beauty,BrandD,White,Glass,65.21,3.2,4247,72
+P0577,Clothing Product 577,Clothing,BrandA,Blue,Wood,467.42,2.3,2801,91
+P0578,Toys Product 578,Toys,BrandE,Black,Metal,440.1,2.1,4786,61
+P0579,Clothing Product 579,Clothing,BrandC,Black,Wood,293.28,4.8,1506,69
+P0580,Sports Product 580,Sports,BrandB,White,Wood,225.77,2.7,819,100
+P0581,Clothing Product 581,Clothing,BrandD,Green,Metal,211.01,3.0,2505,68
+P0582,Books Product 582,Books,BrandE,Pink,Wood,347.29,4.1,1958,0
+P0583,Clothing Product 583,Clothing,BrandD,Black,Metal,495.25,4.4,4748,25
+P0584,Home & Kitchen Product 584,Home & Kitchen,BrandA,Yellow,Leather,18.1,4.5,2261,75
+P0585,Beauty Product 585,Beauty,BrandE,Green,Plastic,367.85,1.5,4650,3
+P0586,Electronics Product 586,Electronics,BrandA,Black,Metal,374.36,3.3,106,27
+P0587,Clothing Product 587,Clothing,BrandA,Blue,Metal,309.81,2.1,2692,37
+P0588,Sports Product 588,Sports,BrandB,Green,Glass,441.48,1.5,1824,58
+P0589,Sports Product 589,Sports,BrandC,Yellow,Metal,268.28,1.1,1550,22
+P0590,Toys Product 590,Toys,BrandA,Blue,Cotton,407.27,3.6,2781,54
+P0591,Books Product 591,Books,BrandC,Blue,Wood,409.48,4.9,3290,3
+P0592,Beauty Product 592,Beauty,BrandA,Blue,Leather,264.66,2.0,1600,87
+P0593,Home & Kitchen Product 593,Home & Kitchen,BrandC,Blue,Metal,271.81,4.7,4597,48
+P0594,Beauty Product 594,Beauty,BrandA,Black,Glass,333.0,3.3,1581,1
+P0595,Beauty Product 595,Beauty,BrandD,Blue,Wood,470.4,1.2,1386,27
+P0596,Home & Kitchen Product 596,Home & Kitchen,BrandB,Blue,Wood,411.57,1.2,4665,52
+P0597,Beauty Product 597,Beauty,BrandD,Blue,Plastic,166.51,1.4,3106,21
+P0598,Sports Product 598,Sports,BrandE,Black,Leather,289.21,4.6,4269,98
+P0599,Toys Product 599,Toys,BrandB,Yellow,Metal,380.09,2.6,1218,50
+P0600,Books Product 600,Books,BrandB,Yellow,Metal,373.31,1.9,2438,73
+P0601,Beauty Product 601,Beauty,BrandD,Green,Plastic,131.77,1.6,4299,56
+P0602,Beauty Product 602,Beauty,BrandA,Yellow,Leather,92.25,2.3,3631,17
+P0603,Electronics Product 603,Electronics,BrandE,Red,Glass,213.43,1.6,4860,55
+P0604,Beauty Product 604,Beauty,BrandE,Pink,Wood,483.2,2.6,4331,71
+P0605,Electronics Product 605,Electronics,BrandA,White,Glass,230.0,2.4,3507,90
+P0606,Toys Product 606,Toys,BrandE,Blue,Cotton,499.92,3.9,304,100
+P0607,Electronics Product 607,Electronics,BrandB,Blue,Plastic,148.95,1.3,3002,55
+P0608,Beauty Product 608,Beauty,BrandB,Green,Metal,179.65,3.2,2972,32
+P0609,Toys Product 609,Toys,BrandB,Pink,Glass,22.82,4.1,1415,89
+P0610,Electronics Product 610,Electronics,BrandA,Black,Metal,357.57,1.1,557,68
+P0611,Books Product 611,Books,BrandB,Black,Cotton,222.96,3.5,4921,67
+P0612,Books Product 612,Books,BrandE,Black,Plastic,8.51,4.6,845,97
+P0613,Toys Product 613,Toys,BrandB,White,Plastic,211.77,3.0,1959,14
+P0614,Toys Product 614,Toys,BrandE,Green,Leather,180.87,2.2,4045,45
+P0615,Toys Product 615,Toys,BrandB,Red,Leather,303.96,4.9,1960,91
+P0616,Electronics Product 616,Electronics,BrandC,Black,Wood,77.76,5.0,4111,50
+P0617,Clothing Product 617,Clothing,BrandB,Black,Leather,134.23,1.7,4816,72
+P0618,Home & Kitchen Product 618,Home & Kitchen,BrandB,Black,Cotton,251.26,3.5,1050,7
+P0619,Sports Product 619,Sports,BrandA,Blue,Cotton,383.93,4.2,1344,17
+P0620,Home & Kitchen Product 620,Home & Kitchen,BrandB,Black,Wood,8.54,1.5,2547,55
+P0621,Beauty Product 621,Beauty,BrandC,Yellow,Wood,294.21,4.3,2947,40
+P0622,Sports Product 622,Sports,BrandD,Pink,Cotton,455.13,1.7,4504,67
+P0623,Clothing Product 623,Clothing,BrandE,Blue,Plastic,237.59,4.3,3344,74
+P0624,Books Product 624,Books,BrandC,Black,Metal,15.81,1.7,2022,78
+P0625,Books Product 625,Books,BrandD,Black,Cotton,257.43,2.7,2109,90
+P0626,Electronics Product 626,Electronics,BrandC,Green,Glass,53.49,4.4,3933,49
+P0627,Toys Product 627,Toys,BrandB,Yellow,Glass,69.8,2.1,3169,40
+P0628,Electronics Product 628,Electronics,BrandB,Green,Leather,256.38,2.8,4318,50
+P0629,Toys Product 629,Toys,BrandB,Pink,Wood,160.69,3.7,928,79
+P0630,Electronics Product 630,Electronics,BrandC,Green,Cotton,304.12,3.3,1835,68
+P0631,Sports Product 631,Sports,BrandA,Blue,Cotton,354.52,1.9,1760,84
+P0632,Sports Product 632,Sports,BrandC,White,Plastic,477.74,4.6,1311,47
+P0633,Books Product 633,Books,BrandB,Green,Glass,397.34,1.1,4389,36
+P0634,Books Product 634,Books,BrandD,Pink,Leather,347.57,1.1,1147,56
+P0635,Books Product 635,Books,BrandD,Red,Plastic,432.26,2.7,2154,69
+P0636,Clothing Product 636,Clothing,BrandD,White,Glass,495.99,3.9,3700,16
+P0637,Sports Product 637,Sports,BrandD,Green,Plastic,421.88,3.0,3495,58
+P0638,Toys Product 638,Toys,BrandC,White,Wood,342.2,1.1,2174,84
+P0639,Clothing Product 639,Clothing,BrandC,White,Metal,147.58,3.6,693,26
+P0640,Books Product 640,Books,BrandB,Blue,Plastic,281.25,2.7,4532,7
+P0641,Beauty Product 641,Beauty,BrandD,Blue,Cotton,54.03,2.3,3967,51
+P0642,Clothing Product 642,Clothing,BrandA,White,Cotton,279.92,1.5,1896,69
+P0643,Sports Product 643,Sports,BrandD,White,Wood,281.53,1.9,3866,82
+P0644,Sports Product 644,Sports,BrandC,White,Plastic,86.55,1.9,1063,80
+P0645,Electronics Product 645,Electronics,BrandA,White,Leather,300.06,3.2,1252,41
+P0646,Toys Product 646,Toys,BrandB,Pink,Metal,239.53,3.7,1665,20
+P0647,Toys Product 647,Toys,BrandB,Blue,Glass,155.98,1.4,2435,70
+P0648,Books Product 648,Books,BrandA,Red,Leather,129.28,2.1,1265,59
+P0649,Home & Kitchen Product 649,Home & Kitchen,BrandC,White,Wood,104.52,3.5,454,92
+P0650,Home & Kitchen Product 650,Home & Kitchen,BrandB,Black,Plastic,88.38,4.6,1850,10
+P0651,Books Product 651,Books,BrandC,Pink,Glass,288.57,3.4,2147,29
+P0652,Sports Product 652,Sports,BrandE,Green,Metal,266.61,2.8,4309,64
+P0653,Home & Kitchen Product 653,Home & Kitchen,BrandE,Red,Metal,368.5,3.4,3677,66
+P0654,Clothing Product 654,Clothing,BrandB,Green,Metal,379.5,1.4,3848,18
+P0655,Electronics Product 655,Electronics,BrandA,Black,Cotton,159.79,1.4,2245,54
+P0656,Clothing Product 656,Clothing,BrandC,Blue,Glass,413.97,1.5,3763,65
+P0657,Home & Kitchen Product 657,Home & Kitchen,BrandC,Green,Metal,160.65,4.0,4614,29
+P0658,Sports Product 658,Sports,BrandA,Red,Leather,324.99,1.3,1161,68
+P0659,Toys Product 659,Toys,BrandD,Green,Metal,351.02,4.1,4755,39
+P0660,Toys Product 660,Toys,BrandC,Blue,Glass,174.25,4.5,4463,32
+P0661,Sports Product 661,Sports,BrandB,Red,Plastic,64.35,4.8,1899,62
+P0662,Electronics Product 662,Electronics,BrandC,Black,Glass,399.24,4.6,1320,2
+P0663,Toys Product 663,Toys,BrandC,Pink,Cotton,231.61,1.1,730,60
+P0664,Sports Product 664,Sports,BrandD,Green,Wood,459.42,4.7,3183,86
+P0665,Clothing Product 665,Clothing,BrandC,Blue,Cotton,375.91,1.8,292,20
+P0666,Sports Product 666,Sports,BrandB,Pink,Wood,357.58,2.6,4690,70
+P0667,Toys Product 667,Toys,BrandB,Blue,Cotton,492.68,2.4,1131,0
+P0668,Home & Kitchen Product 668,Home & Kitchen,BrandD,Black,Wood,9.89,2.0,839,21
+P0669,Electronics Product 669,Electronics,BrandB,Green,Cotton,170.3,3.6,1706,89
+P0670,Sports Product 670,Sports,BrandA,Black,Metal,74.59,3.9,883,91
+P0671,Books Product 671,Books,BrandA,Pink,Plastic,428.03,2.9,3004,56
+P0672,Home & Kitchen Product 672,Home & Kitchen,BrandC,Yellow,Glass,36.07,2.1,2039,8
+P0673,Electronics Product 673,Electronics,BrandA,Blue,Glass,62.54,2.0,3416,80
+P0674,Sports Product 674,Sports,BrandC,Black,Metal,241.92,1.5,1678,59
+P0675,Clothing Product 675,Clothing,BrandE,Green,Wood,185.98,3.1,1496,43
+P0676,Beauty Product 676,Beauty,BrandE,Pink,Plastic,418.51,2.6,4319,79
+P0677,Clothing Product 677,Clothing,BrandC,Yellow,Leather,345.18,4.4,3375,1
+P0678,Beauty Product 678,Beauty,BrandC,Black,Metal,34.16,1.5,2625,90
+P0679,Clothing Product 679,Clothing,BrandA,Red,Leather,111.73,2.0,2635,40
+P0680,Clothing Product 680,Clothing,BrandD,Red,Plastic,90.99,3.2,2260,68
+P0681,Sports Product 681,Sports,BrandE,Red,Wood,384.4,1.7,754,73
+P0682,Electronics Product 682,Electronics,BrandA,Black,Glass,490.33,4.9,1410,38
+P0683,Home & Kitchen Product 683,Home & Kitchen,BrandD,Red,Wood,408.08,4.8,3954,45
+P0684,Home & Kitchen Product 684,Home & Kitchen,BrandB,Pink,Glass,433.16,4.4,4417,54
+P0685,Sports Product 685,Sports,BrandB,Green,Cotton,362.42,2.1,612,57
+P0686,Electronics Product 686,Electronics,BrandD,White,Cotton,498.36,3.8,3304,42
+P0687,Beauty Product 687,Beauty,BrandB,Green,Wood,464.3,2.4,3741,46
+P0688,Home & Kitchen Product 688,Home & Kitchen,BrandD,Black,Leather,69.95,2.8,2619,60
+P0689,Sports Product 689,Sports,BrandE,Red,Cotton,209.86,3.1,1458,39
+P0690,Toys Product 690,Toys,BrandD,Blue,Plastic,223.59,4.6,1830,64
+P0691,Toys Product 691,Toys,BrandB,Yellow,Plastic,463.01,1.4,810,4
+P0692,Beauty Product 692,Beauty,BrandB,Green,Metal,162.76,2.6,659,100
+P0693,Electronics Product 693,Electronics,BrandD,White,Cotton,350.34,3.3,3185,51
+P0694,Toys Product 694,Toys,BrandE,Pink,Metal,91.62,4.3,267,94
+P0695,Electronics Product 695,Electronics,BrandC,Blue,Leather,411.58,1.1,2563,78
+P0696,Beauty Product 696,Beauty,BrandC,Pink,Glass,316.38,4.2,87,89
+P0697,Sports Product 697,Sports,BrandA,Yellow,Leather,264.36,3.9,156,80
+P0698,Home & Kitchen Product 698,Home & Kitchen,BrandC,Black,Metal,416.92,1.4,3255,41
+P0699,Toys Product 699,Toys,BrandE,Blue,Glass,422.1,2.5,3757,8
+P0700,Toys Product 700,Toys,BrandA,Red,Metal,213.73,4.3,1799,7
+P0701,Sports Product 701,Sports,BrandC,Green,Plastic,82.58,4.5,356,13
+P0702,Home & Kitchen Product 702,Home & Kitchen,BrandA,Green,Plastic,62.4,3.3,2365,56
+P0703,Sports Product 703,Sports,BrandA,White,Plastic,112.26,2.7,2342,99
+P0704,Clothing Product 704,Clothing,BrandE,Pink,Cotton,110.31,2.8,3070,4
+P0705,Books Product 705,Books,BrandB,Blue,Cotton,316.86,2.0,1946,64
+P0706,Home & Kitchen Product 706,Home & Kitchen,BrandD,Yellow,Plastic,463.99,4.4,3316,55
+P0707,Books Product 707,Books,BrandB,White,Glass,64.44,3.1,4876,82
+P0708,Clothing Product 708,Clothing,BrandD,Green,Metal,80.98,4.6,2928,88
+P0709,Books Product 709,Books,BrandB,Red,Plastic,245.75,1.7,2745,37
+P0710,Clothing Product 710,Clothing,BrandB,Green,Plastic,385.87,4.2,925,33
+P0711,Sports Product 711,Sports,BrandB,Red,Wood,283.55,1.3,144,4
+P0712,Toys Product 712,Toys,BrandE,White,Wood,235.33,4.6,832,69
+P0713,Home & Kitchen Product 713,Home & Kitchen,BrandB,Black,Wood,215.01,2.6,2596,88
+P0714,Clothing Product 714,Clothing,BrandA,White,Cotton,313.24,2.8,1655,19
+P0715,Electronics Product 715,Electronics,BrandB,Green,Cotton,289.18,3.2,771,72
+P0716,Sports Product 716,Sports,BrandC,Green,Plastic,118.07,3.8,1880,27
+P0717,Beauty Product 717,Beauty,BrandB,White,Cotton,371.01,4.8,4014,62
+P0718,Electronics Product 718,Electronics,BrandB,Black,Metal,294.83,2.9,1809,91
+P0719,Toys Product 719,Toys,BrandA,Red,Cotton,21.82,2.2,4268,16
+P0720,Electronics Product 720,Electronics,BrandC,Red,Cotton,463.22,3.7,4220,29
+P0721,Clothing Product 721,Clothing,BrandB,White,Leather,60.02,4.9,3089,62
+P0722,Books Product 722,Books,BrandD,Yellow,Wood,47.09,2.0,2535,35
+P0723,Clothing Product 723,Clothing,BrandA,Green,Cotton,14.12,4.9,793,14
+P0724,Beauty Product 724,Beauty,BrandD,Yellow,Glass,209.69,1.5,3420,99
+P0725,Clothing Product 725,Clothing,BrandA,Green,Leather,34.6,1.8,2583,59
+P0726,Sports Product 726,Sports,BrandA,Yellow,Cotton,15.83,4.8,4350,47
+P0727,Beauty Product 727,Beauty,BrandD,Black,Wood,287.55,3.6,144,75
+P0728,Toys Product 728,Toys,BrandC,Red,Leather,82.7,4.8,829,22
+P0729,Sports Product 729,Sports,BrandD,Blue,Metal,237.22,2.1,3371,70
+P0730,Beauty Product 730,Beauty,BrandD,White,Wood,386.43,4.4,4183,60
+P0731,Electronics Product 731,Electronics,BrandD,Green,Plastic,303.52,4.6,3877,27
+P0732,Clothing Product 732,Clothing,BrandD,Yellow,Glass,445.61,2.9,464,31
+P0733,Home & Kitchen Product 733,Home & Kitchen,BrandC,Red,Metal,193.28,2.9,3864,3
+P0734,Books Product 734,Books,BrandA,Pink,Glass,172.8,2.8,2187,29
+P0735,Electronics Product 735,Electronics,BrandD,Pink,Glass,112.37,1.5,2339,16
+P0736,Home & Kitchen Product 736,Home & Kitchen,BrandD,Pink,Wood,32.88,2.8,4963,43
+P0737,Clothing Product 737,Clothing,BrandE,Green,Leather,234.13,2.0,4478,74
+P0738,Home & Kitchen Product 738,Home & Kitchen,BrandD,Black,Wood,487.41,3.5,4840,18
+P0739,Home & Kitchen Product 739,Home & Kitchen,BrandB,Pink,Cotton,59.17,2.2,1694,57
+P0740,Beauty Product 740,Beauty,BrandC,Blue,Cotton,187.82,2.5,4111,2
+P0741,Toys Product 741,Toys,BrandE,White,Plastic,186.49,2.2,4727,21
+P0742,Home & Kitchen Product 742,Home & Kitchen,BrandB,Blue,Cotton,372.25,2.6,306,38
+P0743,Home & Kitchen Product 743,Home & Kitchen,BrandB,Red,Glass,40.95,2.2,1056,19
+P0744,Clothing Product 744,Clothing,BrandE,Yellow,Glass,385.15,3.2,1278,81
+P0745,Sports Product 745,Sports,BrandA,Pink,Cotton,451.15,2.3,539,5
+P0746,Electronics Product 746,Electronics,BrandE,Yellow,Cotton,190.5,4.1,4740,20
+P0747,Sports Product 747,Sports,BrandB,Green,Wood,279.28,1.5,509,48
+P0748,Electronics Product 748,Electronics,BrandA,Green,Cotton,112.87,4.5,1566,86
+P0749,Beauty Product 749,Beauty,BrandC,Green,Wood,315.29,2.8,2483,1
+P0750,Clothing Product 750,Clothing,BrandB,Blue,Cotton,252.28,1.7,4393,25
+P0751,Books Product 751,Books,BrandC,Yellow,Cotton,100.44,1.2,3291,2
+P0752,Electronics Product 752,Electronics,BrandC,Red,Wood,385.59,5.0,2813,78
+P0753,Toys Product 753,Toys,BrandD,Blue,Cotton,302.45,1.7,2292,71
+P0754,Beauty Product 754,Beauty,BrandB,Green,Glass,233.5,4.0,689,89
+P0755,Home & Kitchen Product 755,Home & Kitchen,BrandE,Red,Glass,321.7,1.1,3248,8
+P0756,Electronics Product 756,Electronics,BrandB,Yellow,Metal,225.77,4.9,3926,72
+P0757,Beauty Product 757,Beauty,BrandC,Black,Plastic,475.74,3.1,4594,57
+P0758,Clothing Product 758,Clothing,BrandB,Pink,Wood,377.16,2.1,2354,49
+P0759,Books Product 759,Books,BrandC,Blue,Cotton,142.35,1.5,3217,57
+P0760,Clothing Product 760,Clothing,BrandD,White,Wood,299.16,1.2,484,32
+P0761,Home & Kitchen Product 761,Home & Kitchen,BrandA,Pink,Metal,11.84,2.4,995,73
+P0762,Beauty Product 762,Beauty,BrandC,Black,Plastic,31.74,4.9,445,45
+P0763,Beauty Product 763,Beauty,BrandA,Yellow,Wood,269.59,4.8,501,5
+P0764,Electronics Product 764,Electronics,BrandD,Black,Plastic,371.41,1.8,1579,59
+P0765,Beauty Product 765,Beauty,BrandA,Yellow,Leather,19.97,4.6,4908,6
+P0766,Books Product 766,Books,BrandD,Pink,Metal,8.26,1.7,1417,72
+P0767,Electronics Product 767,Electronics,BrandC,Blue,Cotton,410.1,1.3,2937,68
+P0768,Home & Kitchen Product 768,Home & Kitchen,BrandA,Green,Leather,191.64,4.2,4929,15
+P0769,Home & Kitchen Product 769,Home & Kitchen,BrandD,Blue,Metal,152.11,3.8,849,31
+P0770,Home & Kitchen Product 770,Home & Kitchen,BrandC,Green,Cotton,244.43,4.4,2034,1
+P0771,Home & Kitchen Product 771,Home & Kitchen,BrandD,Black,Metal,408.68,4.6,1729,59
+P0772,Toys Product 772,Toys,BrandB,Blue,Plastic,250.35,2.4,4932,74
+P0773,Clothing Product 773,Clothing,BrandA,Green,Cotton,268.91,2.2,235,59
+P0774,Beauty Product 774,Beauty,BrandC,Black,Leather,195.91,4.2,73,85
+P0775,Sports Product 775,Sports,BrandB,Red,Leather,408.31,4.2,3294,74
+P0776,Beauty Product 776,Beauty,BrandD,Pink,Cotton,176.77,4.0,2646,98
+P0777,Home & Kitchen Product 777,Home & Kitchen,BrandA,Yellow,Leather,394.61,2.1,1797,85
+P0778,Sports Product 778,Sports,BrandA,Blue,Plastic,398.94,1.5,4596,87
+P0779,Electronics Product 779,Electronics,BrandC,Yellow,Cotton,263.98,3.4,1460,20
+P0780,Toys Product 780,Toys,BrandB,Red,Metal,44.21,2.0,3537,13
+P0781,Toys Product 781,Toys,BrandE,Green,Glass,371.66,2.9,4019,49
+P0782,Books Product 782,Books,BrandB,Pink,Cotton,400.61,1.4,4946,48
+P0783,Home & Kitchen Product 783,Home & Kitchen,BrandE,Black,Glass,66.01,1.4,2969,84
+P0784,Clothing Product 784,Clothing,BrandA,Green,Plastic,357.66,4.0,713,63
+P0785,Beauty Product 785,Beauty,BrandC,Pink,Plastic,43.91,2.0,1632,6
+P0786,Books Product 786,Books,BrandE,Pink,Metal,147.52,3.7,3846,14
+P0787,Home & Kitchen Product 787,Home & Kitchen,BrandC,Green,Glass,343.05,3.2,17,8
+P0788,Clothing Product 788,Clothing,BrandE,White,Leather,497.74,5.0,317,29
+P0789,Beauty Product 789,Beauty,BrandD,Pink,Plastic,180.47,2.4,3247,77
+P0790,Clothing Product 790,Clothing,BrandC,Pink,Cotton,203.25,1.9,2447,32
+P0791,Electronics Product 791,Electronics,BrandB,Red,Leather,47.8,2.5,1278,43
+P0792,Sports Product 792,Sports,BrandE,Pink,Metal,73.0,4.9,2153,31
+P0793,Sports Product 793,Sports,BrandC,White,Glass,347.19,4.8,3945,6
+P0794,Electronics Product 794,Electronics,BrandB,Red,Metal,204.26,1.8,1395,32
+P0795,Beauty Product 795,Beauty,BrandB,Red,Leather,187.21,4.0,116,23
+P0796,Clothing Product 796,Clothing,BrandC,Green,Metal,241.75,2.5,1281,97
+P0797,Beauty Product 797,Beauty,BrandA,Blue,Glass,246.36,3.6,1453,15
+P0798,Electronics Product 798,Electronics,BrandE,Green,Leather,324.73,1.8,4112,55
+P0799,Sports Product 799,Sports,BrandE,Green,Wood,346.39,1.6,2965,18
+P0800,Toys Product 800,Toys,BrandA,Green,Glass,227.74,3.5,2522,64
+P0801,Clothing Product 801,Clothing,BrandB,Black,Cotton,200.66,2.3,156,10
+P0802,Toys Product 802,Toys,BrandA,Blue,Leather,183.74,2.9,1479,71
+P0803,Beauty Product 803,Beauty,BrandC,Black,Cotton,55.53,1.9,3981,42
+P0804,Toys Product 804,Toys,BrandE,White,Leather,361.92,3.2,327,74
+P0805,Toys Product 805,Toys,BrandA,Green,Cotton,238.16,3.9,1724,58
+P0806,Beauty Product 806,Beauty,BrandC,Yellow,Leather,125.08,2.5,4797,63
+P0807,Electronics Product 807,Electronics,BrandD,Pink,Cotton,256.37,1.7,304,65
+P0808,Books Product 808,Books,BrandA,White,Cotton,142.31,2.4,2549,58
+P0809,Electronics Product 809,Electronics,BrandE,Black,Plastic,324.25,1.6,4996,47
+P0810,Books Product 810,Books,BrandE,Blue,Glass,185.76,3.0,2696,74
+P0811,Clothing Product 811,Clothing,BrandE,Green,Plastic,389.81,3.4,2441,28
+P0812,Toys Product 812,Toys,BrandC,Red,Cotton,434.86,2.3,4753,50
+P0813,Sports Product 813,Sports,BrandC,Black,Glass,170.12,1.1,4143,95
+P0814,Clothing Product 814,Clothing,BrandC,Green,Wood,302.49,1.2,513,23
+P0815,Sports Product 815,Sports,BrandC,Red,Plastic,136.12,2.5,3610,97
+P0816,Books Product 816,Books,BrandB,Yellow,Metal,51.55,4.5,4753,29
+P0817,Clothing Product 817,Clothing,BrandD,White,Wood,403.51,2.0,4138,7
+P0818,Books Product 818,Books,BrandD,Blue,Plastic,161.12,1.6,372,40
+P0819,Beauty Product 819,Beauty,BrandE,Green,Metal,132.23,2.2,1197,77
+P0820,Beauty Product 820,Beauty,BrandB,Red,Leather,494.56,2.7,636,20
+P0821,Home & Kitchen Product 821,Home & Kitchen,BrandB,Black,Cotton,398.92,1.4,2331,15
+P0822,Electronics Product 822,Electronics,BrandC,Green,Plastic,236.68,3.0,1880,64
+P0823,Home & Kitchen Product 823,Home & Kitchen,BrandB,Blue,Leather,468.48,4.7,1490,36
+P0824,Clothing Product 824,Clothing,BrandA,Blue,Metal,269.55,1.6,1500,47
+P0825,Home & Kitchen Product 825,Home & Kitchen,BrandA,Green,Cotton,497.15,3.5,2816,19
+P0826,Books Product 826,Books,BrandC,Black,Leather,375.3,2.0,11,100
+P0827,Beauty Product 827,Beauty,BrandC,Yellow,Wood,91.83,3.5,3615,34
+P0828,Beauty Product 828,Beauty,BrandD,White,Cotton,290.01,1.3,47,87
+P0829,Beauty Product 829,Beauty,BrandB,Yellow,Plastic,186.02,4.8,2487,82
+P0830,Books Product 830,Books,BrandB,Pink,Plastic,423.28,1.9,3951,2
+P0831,Electronics Product 831,Electronics,BrandD,Red,Glass,125.62,4.9,706,9
+P0832,Home & Kitchen Product 832,Home & Kitchen,BrandA,White,Metal,120.64,4.0,4953,98
+P0833,Clothing Product 833,Clothing,BrandD,Blue,Metal,333.49,3.5,4776,95
+P0834,Sports Product 834,Sports,BrandB,Red,Plastic,182.4,4.6,2263,49
+P0835,Clothing Product 835,Clothing,BrandC,Black,Wood,482.66,1.6,4429,91
+P0836,Beauty Product 836,Beauty,BrandE,Black,Plastic,98.01,1.3,4175,25
+P0837,Beauty Product 837,Beauty,BrandD,Black,Leather,242.72,4.0,2264,20
+P0838,Sports Product 838,Sports,BrandE,Red,Cotton,244.29,3.9,4262,27
+P0839,Electronics Product 839,Electronics,BrandD,Blue,Wood,129.06,2.8,3459,40
+P0840,Electronics Product 840,Electronics,BrandE,Black,Cotton,187.86,4.9,1117,80
+P0841,Toys Product 841,Toys,BrandC,Black,Plastic,16.29,2.5,510,42
+P0842,Electronics Product 842,Electronics,BrandA,Red,Cotton,224.42,1.9,562,77
+P0843,Books Product 843,Books,BrandD,Blue,Glass,200.36,1.6,3891,9
+P0844,Sports Product 844,Sports,BrandA,Red,Glass,265.23,3.9,3984,26
+P0845,Toys Product 845,Toys,BrandB,Blue,Plastic,391.67,1.7,4914,27
+P0846,Electronics Product 846,Electronics,BrandD,Green,Leather,471.88,2.8,4495,99
+P0847,Clothing Product 847,Clothing,BrandE,Blue,Leather,23.17,4.5,4165,23
+P0848,Toys Product 848,Toys,BrandC,White,Leather,67.37,3.9,4960,85
+P0849,Home & Kitchen Product 849,Home & Kitchen,BrandD,White,Leather,14.03,3.2,3806,99
+P0850,Beauty Product 850,Beauty,BrandD,Blue,Cotton,475.54,3.5,3438,32
+P0851,Clothing Product 851,Clothing,BrandB,Green,Cotton,305.6,3.3,3025,28
+P0852,Books Product 852,Books,BrandA,Green,Glass,381.93,2.2,4694,94
+P0853,Beauty Product 853,Beauty,BrandE,Blue,Leather,488.42,3.6,2122,90
+P0854,Clothing Product 854,Clothing,BrandD,Pink,Metal,372.53,1.8,3315,9
+P0855,Home & Kitchen Product 855,Home & Kitchen,BrandA,Red,Cotton,339.42,4.2,2775,76
+P0856,Electronics Product 856,Electronics,BrandD,Green,Plastic,45.29,1.2,1251,50
+P0857,Beauty Product 857,Beauty,BrandD,Pink,Wood,471.95,3.3,4295,25
+P0858,Home & Kitchen Product 858,Home & Kitchen,BrandE,Red,Metal,442.98,1.9,3561,39
+P0859,Electronics Product 859,Electronics,BrandA,Yellow,Cotton,491.18,1.4,3577,94
+P0860,Sports Product 860,Sports,BrandA,Red,Glass,188.55,1.8,2647,14
+P0861,Sports Product 861,Sports,BrandB,Blue,Glass,481.87,2.1,3526,65
+P0862,Books Product 862,Books,BrandA,White,Leather,316.57,1.1,1448,52
+P0863,Electronics Product 863,Electronics,BrandA,Pink,Metal,356.37,1.8,1700,76
+P0864,Home & Kitchen Product 864,Home & Kitchen,BrandD,Red,Cotton,264.25,3.9,3804,73
+P0865,Beauty Product 865,Beauty,BrandC,Green,Glass,118.38,1.6,4154,79
+P0866,Electronics Product 866,Electronics,BrandE,Yellow,Cotton,156.73,3.7,976,29
+P0867,Home & Kitchen Product 867,Home & Kitchen,BrandA,Blue,Wood,293.65,2.6,4818,51
+P0868,Toys Product 868,Toys,BrandE,Green,Leather,79.15,2.5,3007,9
+P0869,Beauty Product 869,Beauty,BrandD,White,Wood,96.37,4.2,1064,54
+P0870,Books Product 870,Books,BrandB,White,Leather,421.46,1.7,1976,23
+P0871,Home & Kitchen Product 871,Home & Kitchen,BrandB,Red,Plastic,144.36,3.4,1299,88
+P0872,Home & Kitchen Product 872,Home & Kitchen,BrandC,Black,Metal,340.43,4.6,494,37
+P0873,Home & Kitchen Product 873,Home & Kitchen,BrandE,Green,Plastic,236.74,1.7,568,71
+P0874,Books Product 874,Books,BrandA,Pink,Glass,298.6,2.5,1133,67
+P0875,Beauty Product 875,Beauty,BrandB,Red,Plastic,326.1,4.9,1636,14
+P0876,Books Product 876,Books,BrandD,Black,Cotton,401.11,4.9,384,14
+P0877,Sports Product 877,Sports,BrandD,Red,Leather,408.85,1.5,1003,79
+P0878,Books Product 878,Books,BrandA,Green,Metal,309.47,2.2,3714,54
+P0879,Electronics Product 879,Electronics,BrandE,Green,Metal,426.21,1.7,215,93
+P0880,Clothing Product 880,Clothing,BrandB,Yellow,Wood,7.43,4.1,1896,58
+P0881,Electronics Product 881,Electronics,BrandC,White,Cotton,307.88,3.0,1392,80
+P0882,Electronics Product 882,Electronics,BrandB,Black,Leather,169.18,2.7,2400,23
+P0883,Beauty Product 883,Beauty,BrandA,Black,Plastic,247.84,4.0,1272,50
+P0884,Clothing Product 884,Clothing,BrandD,Red,Glass,480.1,4.8,4754,2
+P0885,Beauty Product 885,Beauty,BrandB,Black,Plastic,396.93,1.5,3444,81
+P0886,Sports Product 886,Sports,BrandC,Pink,Leather,178.22,4.7,2108,16
+P0887,Clothing Product 887,Clothing,BrandB,Black,Plastic,177.81,1.7,1726,71
+P0888,Beauty Product 888,Beauty,BrandA,White,Glass,414.14,4.8,1550,37
+P0889,Home & Kitchen Product 889,Home & Kitchen,BrandB,Red,Plastic,18.8,1.3,3720,70
+P0890,Sports Product 890,Sports,BrandB,Black,Glass,157.79,2.5,3699,2
+P0891,Sports Product 891,Sports,BrandE,Pink,Cotton,498.24,4.8,3804,79
+P0892,Home & Kitchen Product 892,Home & Kitchen,BrandA,Pink,Leather,10.54,2.2,1638,62
+P0893,Clothing Product 893,Clothing,BrandC,Yellow,Glass,65.97,1.7,4459,79
+P0894,Books Product 894,Books,BrandA,Yellow,Wood,212.92,1.9,3203,0
+P0895,Beauty Product 895,Beauty,BrandD,Blue,Glass,302.27,3.3,730,85
+P0896,Beauty Product 896,Beauty,BrandC,Pink,Cotton,112.53,1.3,2828,70
+P0897,Sports Product 897,Sports,BrandB,White,Glass,129.97,1.2,1646,89
+P0898,Books Product 898,Books,BrandB,Yellow,Metal,435.34,4.1,553,91
+P0899,Sports Product 899,Sports,BrandD,Black,Glass,332.9,1.7,512,13
+P0900,Beauty Product 900,Beauty,BrandA,Pink,Plastic,269.88,4.0,3103,16
+P0901,Beauty Product 901,Beauty,BrandD,Green,Leather,480.68,3.1,1438,93
+P0902,Clothing Product 902,Clothing,BrandE,Black,Plastic,488.4,2.6,161,19
+P0903,Beauty Product 903,Beauty,BrandC,White,Wood,369.53,2.0,1398,55
+P0904,Toys Product 904,Toys,BrandB,Pink,Leather,247.63,1.3,2643,18
+P0905,Clothing Product 905,Clothing,BrandE,Yellow,Glass,72.56,1.0,832,91
+P0906,Clothing Product 906,Clothing,BrandE,Yellow,Wood,157.17,2.9,3869,15
+P0907,Home & Kitchen Product 907,Home & Kitchen,BrandB,Black,Plastic,88.56,1.7,271,10
+P0908,Toys Product 908,Toys,BrandB,Blue,Cotton,485.94,3.5,464,19
+P0909,Sports Product 909,Sports,BrandE,Pink,Wood,323.09,3.4,1810,47
+P0910,Home & Kitchen Product 910,Home & Kitchen,BrandE,White,Cotton,174.87,4.1,2108,46
+P0911,Beauty Product 911,Beauty,BrandA,Yellow,Glass,187.8,4.9,2322,80
+P0912,Beauty Product 912,Beauty,BrandA,Red,Glass,279.8,4.8,1996,49
+P0913,Home & Kitchen Product 913,Home & Kitchen,BrandE,Pink,Cotton,294.34,3.6,667,23
+P0914,Home & Kitchen Product 914,Home & Kitchen,BrandA,Yellow,Glass,499.02,4.8,3161,69
+P0915,Books Product 915,Books,BrandE,Black,Cotton,197.08,2.5,1787,84
+P0916,Books Product 916,Books,BrandC,Black,Glass,66.95,3.8,1760,62
+P0917,Home & Kitchen Product 917,Home & Kitchen,BrandE,Blue,Glass,77.75,1.2,1507,75
+P0918,Electronics Product 918,Electronics,BrandA,Black,Metal,192.54,1.8,2019,37
+P0919,Sports Product 919,Sports,BrandE,Red,Leather,447.5,1.1,3291,33
+P0920,Beauty Product 920,Beauty,BrandE,Black,Leather,476.16,3.1,1058,95
+P0921,Clothing Product 921,Clothing,BrandE,Green,Wood,113.39,1.0,498,41
+P0922,Clothing Product 922,Clothing,BrandD,Green,Leather,195.16,4.3,1524,65
+P0923,Books Product 923,Books,BrandE,Black,Glass,235.41,1.0,1918,38
+P0924,Electronics Product 924,Electronics,BrandD,Yellow,Metal,58.56,1.6,2656,0
+P0925,Toys Product 925,Toys,BrandB,White,Glass,294.71,3.3,3844,85
+P0926,Home & Kitchen Product 926,Home & Kitchen,BrandD,White,Wood,222.5,4.1,4307,33
+P0927,Electronics Product 927,Electronics,BrandE,Red,Wood,409.73,1.9,2960,18
+P0928,Sports Product 928,Sports,BrandA,Red,Plastic,160.68,3.4,1936,71
+P0929,Sports Product 929,Sports,BrandA,White,Glass,28.3,4.0,1732,94
+P0930,Electronics Product 930,Electronics,BrandE,White,Plastic,483.85,1.3,3138,32
+P0931,Sports Product 931,Sports,BrandA,Pink,Wood,160.51,3.9,2518,18
+P0932,Sports Product 932,Sports,BrandA,Blue,Cotton,281.62,1.9,157,72
+P0933,Beauty Product 933,Beauty,BrandA,Pink,Cotton,134.63,2.1,3776,62
+P0934,Books Product 934,Books,BrandC,Blue,Leather,407.32,1.0,2099,8
+P0935,Beauty Product 935,Beauty,BrandC,Red,Glass,433.27,4.5,151,84
+P0936,Books Product 936,Books,BrandB,White,Plastic,170.66,3.5,879,46
+P0937,Toys Product 937,Toys,BrandD,Green,Wood,292.77,3.2,1191,80
+P0938,Toys Product 938,Toys,BrandE,Green,Leather,438.46,1.2,1954,86
+P0939,Books Product 939,Books,BrandE,Green,Cotton,444.08,4.1,2210,9
+P0940,Electronics Product 940,Electronics,BrandD,Blue,Metal,87.9,3.4,4153,86
+P0941,Beauty Product 941,Beauty,BrandC,Green,Plastic,308.83,2.9,2472,55
+P0942,Toys Product 942,Toys,BrandA,Blue,Metal,39.71,1.9,4199,26
+P0943,Electronics Product 943,Electronics,BrandB,Yellow,Metal,125.31,2.8,1482,35
+P0944,Home & Kitchen Product 944,Home & Kitchen,BrandD,Black,Metal,248.63,1.0,2201,70
+P0945,Home & Kitchen Product 945,Home & Kitchen,BrandE,Black,Plastic,211.78,2.9,213,57
+P0946,Toys Product 946,Toys,BrandE,Green,Cotton,217.74,2.3,1161,80
+P0947,Toys Product 947,Toys,BrandA,Black,Glass,365.07,3.6,3111,49
+P0948,Home & Kitchen Product 948,Home & Kitchen,BrandB,Yellow,Plastic,484.84,1.3,3662,53
+P0949,Books Product 949,Books,BrandC,Pink,Leather,330.68,4.7,3994,52
+P0950,Beauty Product 950,Beauty,BrandE,Green,Metal,117.81,4.2,3298,90
+P0951,Sports Product 951,Sports,BrandE,Green,Metal,328.58,3.4,4257,89
+P0952,Clothing Product 952,Clothing,BrandA,Pink,Glass,285.23,1.5,3554,81
+P0953,Beauty Product 953,Beauty,BrandC,Blue,Plastic,226.72,2.5,1598,12
+P0954,Beauty Product 954,Beauty,BrandE,Yellow,Cotton,350.72,2.5,300,83
+P0955,Home & Kitchen Product 955,Home & Kitchen,BrandC,White,Metal,159.15,1.1,169,87
+P0956,Home & Kitchen Product 956,Home & Kitchen,BrandE,Yellow,Wood,233.17,1.7,269,45
+P0957,Toys Product 957,Toys,BrandA,Pink,Glass,423.54,3.1,1601,93
+P0958,Books Product 958,Books,BrandE,Pink,Metal,205.94,2.0,3879,58
+P0959,Clothing Product 959,Clothing,BrandE,Blue,Glass,39.83,2.5,3155,22
+P0960,Electronics Product 960,Electronics,BrandC,Yellow,Plastic,438.68,2.4,1049,66
+P0961,Clothing Product 961,Clothing,BrandA,White,Cotton,461.11,3.8,3283,46
+P0962,Sports Product 962,Sports,BrandA,Green,Plastic,379.13,1.6,1675,0
+P0963,Toys Product 963,Toys,BrandB,Red,Metal,66.79,2.3,3541,39
+P0964,Beauty Product 964,Beauty,BrandA,Black,Metal,293.7,1.5,2710,20
+P0965,Sports Product 965,Sports,BrandE,Yellow,Plastic,292.63,4.4,944,21
+P0966,Sports Product 966,Sports,BrandC,Green,Glass,443.49,2.8,2850,6
+P0967,Clothing Product 967,Clothing,BrandC,Pink,Leather,280.13,4.2,3526,65
+P0968,Toys Product 968,Toys,BrandB,Black,Plastic,5.92,4.8,1300,72
+P0969,Sports Product 969,Sports,BrandD,Blue,Leather,291.1,4.4,388,60
+P0970,Home & Kitchen Product 970,Home & Kitchen,BrandC,White,Leather,87.35,4.8,4738,47
+P0971,Beauty Product 971,Beauty,BrandA,White,Leather,97.77,3.2,3140,23
+P0972,Electronics Product 972,Electronics,BrandD,Red,Glass,162.14,3.3,2862,13
+P0973,Toys Product 973,Toys,BrandD,Black,Metal,36.41,3.0,665,24
+P0974,Beauty Product 974,Beauty,BrandE,Blue,Plastic,261.61,3.8,1764,11
+P0975,Beauty Product 975,Beauty,BrandD,White,Metal,363.87,1.5,2553,60
+P0976,Beauty Product 976,Beauty,BrandE,Blue,Leather,189.5,1.0,2128,46
+P0977,Clothing Product 977,Clothing,BrandC,Black,Plastic,404.1,2.5,3946,86
+P0978,Electronics Product 978,Electronics,BrandD,Black,Cotton,71.73,5.0,2266,25
+P0979,Sports Product 979,Sports,BrandA,White,Leather,280.95,2.8,3370,85
+P0980,Sports Product 980,Sports,BrandD,Yellow,Plastic,245.82,2.2,2228,29
+P0981,Books Product 981,Books,BrandE,White,Plastic,398.53,3.4,2536,37
+P0982,Sports Product 982,Sports,BrandC,White,Plastic,341.42,3.9,2692,89
+P0983,Clothing Product 983,Clothing,BrandA,White,Metal,85.36,1.0,3871,69
+P0984,Sports Product 984,Sports,BrandC,Black,Metal,489.88,2.7,3896,43
+P0985,Beauty Product 985,Beauty,BrandE,Pink,Metal,432.82,5.0,780,49
+P0986,Beauty Product 986,Beauty,BrandB,Yellow,Leather,314.02,4.8,4583,88
+P0987,Books Product 987,Books,BrandC,Black,Glass,414.3,1.4,3490,6
+P0988,Home & Kitchen Product 988,Home & Kitchen,BrandB,Pink,Leather,74.2,1.2,3581,69
+P0989,Clothing Product 989,Clothing,BrandB,Red,Cotton,162.9,3.7,4882,70
+P0990,Clothing Product 990,Clothing,BrandC,Blue,Metal,164.53,4.5,3177,66
+P0991,Beauty Product 991,Beauty,BrandA,Pink,Metal,412.22,2.3,4843,60
+P0992,Electronics Product 992,Electronics,BrandE,Pink,Glass,277.98,3.9,4191,88
+P0993,Clothing Product 993,Clothing,BrandA,Black,Leather,61.22,1.0,4990,32
+P0994,Toys Product 994,Toys,BrandB,Green,Metal,151.95,4.8,4332,76
+P0995,Toys Product 995,Toys,BrandE,Yellow,Glass,409.8,1.7,4168,32
+P0996,Clothing Product 996,Clothing,BrandA,Green,Plastic,133.03,2.3,4610,51
+P0997,Beauty Product 997,Beauty,BrandC,Black,Cotton,342.28,1.1,1208,92
+P0998,Toys Product 998,Toys,BrandE,Pink,Cotton,340.5,1.6,4742,95
+P0999,Home & Kitchen Product 999,Home & Kitchen,BrandB,Pink,Leather,496.95,4.4,3280,20
+P1000,Sports Product 1000,Sports,BrandC,White,Wood,388.52,4.3,3410,72

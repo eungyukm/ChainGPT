@@ -1,0 +1,15 @@
+{
+    "name": null,
+    "input_variables": [
+        "subject"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "{subject}\uc5d0 \ub300\ud55c \uc601\ud654\ub97c \ub79c\ub364\uc73c\ub85c \uc0dd\uc131\ud574\uc918.\nThe output should be formatted as a JSON instance that conforms to the JSON schema below.\n\nAs an example, for the schema {{\"properties\": {{\"foo\": {{\"title\": \"Foo\", \"description\": \"a list of strings\", \"type\": \"array\", \"items\": {{\"type\": \"string\"}}}}}}, \"required\": [\"foo\"]}}\nthe object {{\"foo\": [\"bar\", \"baz\"]}} is a well-formatted instance of the schema. The object {{\"properties\": {{\"foo\": [\"bar\", \"baz\"]}}}} is not well-formatted.\n\nHere is the output schema:\n```\n{{\"properties\": {{\"title\": {{\"description\": \"The title of the movie\", \"title\": \"Title\", \"type\": \"string\"}}, \"year\": {{\"description\": \"The year the movie was released\", \"title\": \"Year\", \"type\": \"integer\"}}, \"rating\": {{\"description\": \"The rating of the movie\", \"title\": \"Rating\", \"type\": \"number\"}}}}, \"required\": [\"title\", \"year\", \"rating\"]}}\n```",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
